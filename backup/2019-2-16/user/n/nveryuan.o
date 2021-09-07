@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["last_shake_shu":1545651034,"times":0,"all_pay":0,"last_vip_set":1545665366,"kaihuang_gift":1,]),"online_time":2196,"qi":101,"per":17,"last_read_news":1545227770,"born_family":"没有","class":"fighter","env":(["wimpy":60,"sign5":"eat zhoutian dan",]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":2182,"experience":0,"potential":17398,"time":1545688808,"combat_exp":56743,]),"shen":0,"character":"光明磊落","str":26,"score":2023,"p_master":(["last_learnto":55000,]),"learned_points":13918,"title":"星宿派第三代传人","kar":17,"img":"","level":1,"yuanbao":0,"shen_type":0,"startroom":"/d/foshan/beidimiao","max_jingli":3,"con":20,"water":360,"eff_qi":101,"unit":"位","max_qi":156,"registered":1,"family":(["title":"传人","master_name":"摘星子","generation":3,"enter_time":1545228027,"privs":0,"family_name":"星宿派","master_id":"zhaixing zi",]),"int":14,"month":0,"can_speak":1,"born":"两广人氏","last_day_sign":1545227842,"race":"人类","mud_age":2182,"dex":20,"name":"女儿缘","jingli":3,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":360,"potential":17398,"eff_jing":101,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"fLmOmHRoWh20Y","weiwang":75,"purename":"女儿缘","id":"nveryuan","jing":101,"gender":"女性","last_ip":"113.111.229.121","surname":0,"last_save":1545665366,"combat_exp":56743,"max_jing":101,"attitude":"peaceful","neili":227,"birthday":1545227768,"max_neili":227,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":81,"club":80,"guixi-gong":28,"chuancai-jiyi":63,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"cooking":32,"unarmed":80,"whip":80,])
+learned (["force":0,"guixi-gong":0,"chuancai-jiyi":2433,"cooking":649,])
+skill_map (["force":"guixi-gong","cooking":"chuancai-jiyi",])
+autoload ({"/clone/money/coin:373","/clone/vip/zhoutian:1383","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong","/clone/gift/gift_shengdan:1",})
+at_time 1545665368
+ban_say_msg ""

@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({"mu ren",})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":9678,"zjvip":(["all_pay":0,"times":0,"last_vip_set":1548324497,"kaihuang_gift":1,]),"qi":100,"last_read_news":1545533529,"per":21,"born_family":"没有","class":"taoist","env":(["wimpy":60,]),"special_skill":(["power":1,]),"last_examine":(["all_quest":0,"mud_age":9667,"experience":0,"potential":41528,"time":1548367211,"combat_exp":80657,]),"shen":0,"die_protect":(["duration":7200,"last_dead":1545750637,]),"character":"阴险奸诈","str":24,"score":2014,"learned_points":7,"p_master":(["last_learnto":65657,]),"title":"全真教第四代传人","kar":27,"img":"","startroom":"/d/city/wumiao","shen_type":0,"yuanbao":0,"con":13,"water":340,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"祁志诚","generation":4,"enter_time":1545753273,"privs":0,"family_name":"全真教","master_id":"qi zhicheng",]),"mycmds":(["fight":(["b2":"拉弓$br#射箭:shot","b1":"绝技$br#一:aa",]),]),"int":13,"month":0,"last_day_sign":1548324485,"born":"扬州人氏","can_speak":1,"race":"人类","holiday":(["腊八":(["day24":1,]),]),"mud_age":9667,"name":"慕容杀","dex":30,"eff_jing":100,"potential":41528,"food":340,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"MfU6uZSR.5HbU","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":72,"id":"w15206070028","purename":"慕容杀","jing":88,"gender":"男性","last_ip":"120.34.67.107","surname":0,"combat_exp":80657,"last_save":1548324477,"max_jing":100,"attitude":"peaceful","experience":0,"birthday":1545533527,"chuwudai":1,"combat":(["last_die":"发烧太重，活活被折磨死了","dietimes":3,]),"age":14,])
+skills (["claw":80,"quanzhen-xinfa":4,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":0,"dodge":2,"quanzhen-xinfa":8,"unarmed":0,])
+autoload ({"/clone/gift/gift_laba:1","/clone/shizhe/dan_chongmai1:2","/clone/misc/baibao","/clone/gift/gift_christmas:1","/clone/money/coin:141","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1548324506
+ban_say_msg ""

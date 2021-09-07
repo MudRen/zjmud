@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1546575314,"kaihuang_gift":1,]),"per":28,"last_read_news":1546527715,"env":(["wimpy":60,]),"shen":0,"character":"阴险奸诈","p_master":(["last_learnto":60089,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"con":13,"eff_qi":137,"unit":"位","max_qi":137,"registered":1,"family":(["title":"传人","master_name":"慕容复","generation":17,"enter_time":1546528132,"privs":0,"family_name":"慕容世家","master_id":"murong fu",]),"mycmds":(["fight":(["b3":"内力$br#疗伤:exert heal","b2":"内力$br#回精:exert regenerate","b1":"内力$br#回气:exert recover",]),]),"int":24,"month":0,"can_speak":1,"race":"人类","dex":30,"name":"张道兴","jingli":60,"potential":24410,"eff_jing":120,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"oUEwfqHS/LiWw","purename":"张道兴","jing":0,"tianfu_point":2,"surname":0,"type":"敏捷型","combat_exp":60089,"max_jing":120,"neili":0,"experience":9295,"max_neili":148,"online_time":4822,"qi":137,"born_family":"没有","special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":4918,"experience":9295,"potential":24410,"time":1546639202,"combat_exp":60089,]),"str":13,"score":2049,"learned_points":2589,"title":"慕容世家第十七代传人","kar":25,"img":"","yuanbao":0,"startroom":"/d/city3/kedian","water":170,"born":"巴蜀人氏","last_day_sign":1546527803,"mud_age":4918,"holiday":(["元旦":(["day3":1,]),]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":170,"weiwang":78,"id":"a1071367750","gender":"男性","last_ip":"117.136.30.200","last_save":1546575241,"attitude":"peaceful","birthday":1546527714,"age":14,])
+skills (["claw":80,"beidou-xianzong":35,"sword":80,"blade":80,"force":80,"club":80,"zihui-xinfa":32,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["beidou-xianzong":461,"force":2,"zihui-xinfa":438,])
+skill_map (["force":"zihui-xinfa","dodge":"beidou-xianzong",])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1546576234
+ban_say_msg ""

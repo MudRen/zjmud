@@ -1,0 +1,13 @@
+#/clone/user/user.c
+alias (["hj":"exert regenerate","hx":"exert recover",])
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["all_pay":0,"times":742135,"kaihuang_gift":1,"last_vip_set":1544863850,"level":1,]),"per":23,"last_read_news":1544829728,"env":(["sign5":"xue feng buping huashan-xinfa 100;use huxin dan","wimpy":60,]),"shen":-10,"character":"阴险奸诈","p_master":(["last_learnto":55000,]),"skill_point":6,"gongxian":30,"level":20,"shen_type":0,"max_jingli":82,"lilian":(["start":1544862530,]),"con":13,"eff_qi":88,"unit":"位","max_qi":88,"registered":1,"family":(["title":"传人","privs":0,"enter_time":1544829874,"generation":14,"master_name":"封不平","family_name":"华山剑宗","master_id":"feng buping",]),"mycmds":(["fight":(["b2":"拉弓$br#射箭:shot",]),]),"int":25,"month":1,"can_speak":1,"out_family":1,"race":"人类","jingli":82,"dex":31,"name":"星魂","potential":30580,"eff_jing":127,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Gr3HiWNp7RnWA","purename":"星魂","jing":127,"tianfu_point":0,"surname":0,"type":"敏捷型","combat_exp":89719,"max_jing":127,"neili":36,"experience":0,"chuwudai":1,"max_neili":111,"online_time":41290,"qi":88,"quest_count":30,"class":"swordsman","born_family":"没有","special_skill":(["ghost":1,]),"die_protect":(["duration":7200,"last_dead":1544861917,]),"str":13,"score":2450,"learned_points":29513,"title":"华山剑宗第十四代弟子","kar":10,"img":"","shimen":(["today":26,"last":1544883337,]),"startroom":"/d/city/wumiao","yuanbao":0,"water":230,"last_day_sign":1544862534,"born":"扬州人氏","mud_age":41988,"food":230,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":489,"id":"yyyy0000","gender":"男性","last_ip":"223.104.175.25","last_save":1544863818,"attitude":"peaceful","birthday":1544829726,"combat":(["MKS":30,"last_die":"被高备杀死了","dietimes":1,]),"balance":8027,"age":14,])
+skills (["huashan-xinfa":73,"claw":80,"huashan-shenfa":40,"sword":80,"literate":54,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":91,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["huashan-xinfa":1030,"force":153,"huashan-shenfa":851,"dodge":1090,"parry":1,"literate":2764,"unarmed":171,])
+skill_map (["force":"huashan-xinfa","dodge":"huashan-shenfa",])
+autoload ({"/clone/misc/baibao","/clone/shizhe/huxindan9:20","/clone/gift/bagua:266","/clone/gift/arrow:119","/clone/gift/gong","/clone/money/gold:4","/clone/money/silver:691",})
+at_time 1544864772
+ban_say_msg ""

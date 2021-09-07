@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":1368,"zjvip":(["all_pay":0,"times":0,"last_vip_set":1545263973,]),"qi":100,"last_read_news":1545228982,"per":27,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["hatred":1,]),"last_examine":(["all_quest":0,"mud_age":1552,"experience":0,"potential":100,"time":1545343203,"combat_exp":0,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":13,"img":"","startroom":"/d/city/kedian","shen_type":0,"yuanbao":0,"con":24,"water":230,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":1552,"name":"柳白秋","dex":13,"eff_jing":100,"potential":100,"food":230,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"cwgp4aqLrRTCE","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"liubaiqiu","purename":"柳白秋","jing":100,"gender":"女性","last_ip":"117.136.90.149","surname":0,"type":"智慧型","last_save":1545263973,"max_jing":100,"attitude":"peaceful","birthday":1545228980,"age":14,])
+autoload ({})
+at_time 1545264892
+ban_say_msg ""

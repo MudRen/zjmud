@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":338,"zjvip":(["times":0,"last_vip_set":1547349730,]),"qi":39,"last_read_news":1545405351,"per":16,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["power":1,]),"shen":0,"last_examine":(["all_quest":0,"mud_age":315,"experience":0,"potential":99,"time":1547416802,"combat_exp":308,]),"character":"狡黠多变","str":13,"score":22,"title":"普通百姓","kar":10,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":24,"water":230,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":315,"name":"祸害","dex":13,"eff_jing":100,"potential":99,"food":230,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"TKbUjrBarY/tA","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"bin14789","purename":"祸害","jing":100,"gender":"男性","last_ip":"112.224.1.209","surname":0,"combat_exp":308,"type":"智慧型","last_save":1547349730,"max_jing":100,"attitude":"peaceful","birthday":1545405350,"age":14,])
+skills (["force":2,"dodge":4,"unarmed":3,])
+learned (["force":3,"dodge":4,"unarmed":0,])
+autoload ({"/clone/money/coin:458",})
+at_time 1547349738
+ban_say_msg ""

@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["hunger":13,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545747474,]),"online_time":7340,"qi":36,"per":23,"last_read_news":1545740031,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":7421,"experience":0,"potential":100,"time":1545775205,"combat_exp":7700,]),"shen":0,"character":"心狠手辣","str":13,"score":515,"title":"普通百姓","kar":20,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":0,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":7421,"dex":13,"name":"念秋","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":0,"potential":100,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"FjRMedi6ifu9U","purename":"念秋","id":"zdb198356","jing":87,"gender":"男性","last_ip":"60.215.213.137","surname":0,"last_save":1545747391,"type":"智慧型","combat_exp":7700,"max_jing":100,"attitude":"peaceful","birthday":1545740029,"age":14,])
+skills (["force":11,"dodge":11,"unarmed":11,])
+learned (["force":90,"dodge":58,"unarmed":45,])
+autoload ({"/clone/money/coin:11433",})
+at_time 1545748396
+ban_say_msg ""

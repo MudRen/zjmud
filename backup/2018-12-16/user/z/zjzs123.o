@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["putizi_drug":694,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["lingzhi_num":1,"yuanbao_used":220,"times":5678681,"all_pay":22,"last_vip_set":1544880864,"kaihuang_gift":1,"level":1,]),"per":20,"last_read_news":1544875898,"env":(["wimpy":60,"keep_idle":1,]),"shen":0,"character":"光明磊落","shen_record":0,"p_master":(["last_learnto":50000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":88,"lilian":(["start":1544885078,]),"con":24,"eff_qi":422,"unit":"位","max_qi":422,"registered":1,"family":(["title":"传人","privs":0,"enter_time":1544880782,"generation":41,"master_name":"清善比丘","family_name":"少林派","master_id":"qingshan biqiu",]),"int":13,"month":0,"can_speak":1,"day_item":(["lingzhi":(["times":1,"last_time":1544871957,]),]),"race":"人类","dex":15,"name":"明辰","jingli":88,"potential":15099,"eff_jing":129,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"xF.EqHUvkfa3A","purename":"辰北","jing":129,"tianfu_point":0,"surname":0,"type":"猛士型","combat_exp":55306,"max_jing":129,"neili":1552,"chuwudai":1,"max_neili":1291,"K_record":0,"online_time":11344,"qi":422,"born_family":"没有","class":"bonze","special_skill":(["self":1,]),"str":30,"score":2116,"learned_points":8490,"title":"少林派第四十一代传人","kar":18,"img":"","yuanbao":11,"startroom":"/d/city/kedian","water":257,"last_day_sign":1544885089,"born":"扬州人氏","mud_age":11762,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":257,"weiwang":54,"id":"zjzs123","gender":"男性","last_ip":"117.136.4.153","last_save":1544880702,"attitude":"peaceful","birthday":1544875897,"balance":650000,"age":14,])
+skills (["claw":80,"cibei-dao":32,"banruo-zhang":31,"shaolin-xinfa":32,"jingang-quan":30,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"buddhism":30,"staff":80,"dodge":80,"hammer":80,"parry":80,"shaolin-shenfa":32,"unarmed":80,"whip":80,])
+learned (["force":25,"cibei-dao":754,"banruo-zhang":884,"shaolin-xinfa":583,"jingang-quan":181,"buddhism":88,"dodge":10,"shaolin-shenfa":974,"unarmed":9,])
+skill_map (["force":"shaolin-xinfa","dodge":"shaolin-shenfa","strike":"banruo-zhang","blade":"cibei-dao","cuff":"jingang-quan",])
+autoload ({"/clone/money/gold:3","/clone/misc/baibao","/clone/money/silver:21","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/money/coin:55","/clone/shizhe/huxindan9:89",})
+at_time 1544880864
+ban_say_msg ""

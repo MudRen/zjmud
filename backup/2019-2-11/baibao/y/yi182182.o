@@ -1,0 +1,3 @@
+#/clone/misc/baibao.c
+dbase (["owner_id":"yi182182","no_give":1,"no_steal":1,"no_put":1,"name":"[1;37m´¢Îï´ü[2;37;0m","no_sell":1,"no_get":1,"no_drop":1,"id":"chuwu dai","unit":"¸ö","long":"[1;37mÒ»¸öÉñÆæµÄ´ü×Ó£¬¿ÉÒÔ´æÈ¡Ğí¶à±¦±´¡£[2;37;0m",])
+baowus (["1":(["amount":1,"data":"([\"value\":500,\"name\":\"[1;37m³åÂöµ¤[ÏÂÆ·][2;37;0m\",\"amount\":1,\"id\":\"chongmai dan\",])","id":({"chongmai dan",}),"file":"/clone/shizhe/dan_chongmai1","short":"[1;37m³åÂöµ¤[ÏÂÆ·][2;37;0m",]),])

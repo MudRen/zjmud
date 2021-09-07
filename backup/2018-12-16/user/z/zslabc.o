@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":29064,"zjvip":(["all_pay":0,"times":487550,"kaihuang_gift":1,"last_vip_set":1544911032,"level":1,]),"qi":96,"last_read_news":1544880698,"per":30,"born_family":"没有","env":(["sign1":"1","sign5":"ask ping yizhi about 工作","wimpy":60,]),"special_skill":(["trick":1,]),"shen":0,"character":"光明磊落","str":30,"score":2009,"learned_points":15115,"p_master":(["last_learnto":55000,]),"title":"古墓派第四代传人","skill_point":6,"kar":12,"img":"","level":20,"startroom":"/d/city/kedian","shen_type":0,"yuanbao":0,"max_jingli":60,"lilian":(["start":1544880753,]),"con":24,"water":221,"eff_qi":100,"unit":"位","max_qi":100,"family":(["title":"传人","privs":0,"enter_time":1544880876,"generation":4,"master_name":"小龙女","family_name":"古墓派","master_id":"long nv",]),"registered":1,"mycmds":(["fight":(["b1":"玉女$br#真气:exert force.powerup",]),]),"int":14,"month":1,"last_day_sign":1544880757,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":29576,"jingli":60,"name":"凌云天","dex":14,"eff_jing":100,"potential":21715,"food":221,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"aGNuV7T0l/cvk","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":57,"id":"zslabc","purename":"凌云天","jing":55,"gender":"男性","tianfu_point":0,"last_ip":"117.174.212.101","surname":0,"combat_exp":74625,"type":"猛士型","last_save":1544910726,"max_jing":100,"attitude":"peaceful","neili":107091,"birthday":1544880696,"chuwudai":1,"max_neili":100,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"yunv-jian":11,"quanzhen-jian":0,"yunv-xinfa":46,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"literate":81,"zuoyou-hubo":60,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+learned (["force":3,"literate":6705,"zuoyou-hubo":3278,"yunv-jian":32,"yunv-xinfa":1415,])
+skill_map (["force":"yunv-xinfa","sword":"yunv-jian",])
+autoload ({"/clone/money/coin:6091","/clone/money/silver:60","/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1544911032
+ban_say_msg ""

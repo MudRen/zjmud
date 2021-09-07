@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546697243,"kaihuang_gift":1,]),"per":23,"last_read_news":1546696843,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":50000,]),"gongxian":1,"shen_type":0,"con":24,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"冯阿三","generation":4,"enter_time":1546697111,"privs":0,"family_name":"逍遥派","master_id":"feng asan",]),"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":30,"month":0,"can_speak":1,"out_family":1,"race":"人类","dex":13,"name":"胡泽","potential":15101,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"IeXnPgE9FwYIk","purename":"胡泽","jing":100,"surname":0,"type":"智慧型","combat_exp":55039,"max_jing":100,"experience":0,"online_time":396,"qi":100,"born_family":"没有","class":"alchemist","quest_count":1,"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":389,"experience":0,"potential":15101,"time":1546725604,"combat_exp":55039,]),"str":13,"score":2024,"learned_points":16,"title":"逍遥派第四代传人","kar":21,"img":"","shimen":(["today":1,"last":1546697146,]),"startroom":"/d/city/kedian","water":164,"born":"扬州人氏","last_day_sign":1546696924,"mud_age":389,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":164,"weiwang":73,"quest":(["family":"逍遥派","place":"星宿海","limit":1546697979,"name":"戴立","id":"dai li","full_id":({"dai li","dai","li",}),"count":1,"master_name":"苏星河","time":1546697215,"type":"kill","level":0,"master_id":"su xinghe",]),"id":"asdqwerty","gender":"男性","last_ip":"119.39.166.172","last_save":1546697146,"attitude":"peaceful","birthday":1546696841,"combat":(["MKS":1,]),"age":14,])
+skills (["claw":80,"xiaoyao-xinfa":6,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":3,"xiaoyao-xinfa":47,])
+autoload ({"/clone/money/coin:30","/clone/gift/bagua:298","/clone/gift/arrow:149","/clone/gift/gong",})
+at_time 1546697246
+ban_say_msg ""

@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({"wu gui","wolf dog",})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":5415929,"all_pay":0,"last_vip_set":1544911154,"kaihuang_gift":1,"master":"q456789","level":1,]),"per":29,"last_read_news":1544887987,"env":(["wimpy":60,]),"last_sleep":1544872221,"shen":0,"character":"狡黠多变","p_master":(["qinmi":1,"name":"唐三","last_learnto":50000,"id":"q456789",]),"shen_type":0,"max_jingli":80,"lilian":(["start":1544873859,]),"con":24,"eff_qi":148,"unit":"位","max_qi":148,"registered":1,"family":(["title":"传人","privs":0,"enter_time":1544865491,"generation":3,"master_name":"苏星河","family_name":"逍遥派","master_id":"su xinghe",]),"int":30,"month":2,"can_speak":1,"race":"人类","dex":13,"name":"天涯海","jingli":80,"potential":72945,"eff_jing":126,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"uFxh3J0RCglxk","purename":"天涯海","jing":118,"surname":0,"type":"智慧型","combat_exp":79064,"max_jing":126,"neili":192,"chuwudai":1,"max_neili":192,"online_time":45862,"qi":148,"disable_type":" <睡梦中>","born_family":"没有","class":"scholar","special_skill":(["mystery":1,]),"die_protect":(["duration":7200,"last_dead":1544872145,]),"str":13,"score":2053,"learned_points":60945,"title":"逍遥派第三代传人","kar":17,"img":"","yuanbao":0,"startroom":"/d/city/wumiao","water":65,"baishi_times":1,"born":"扬州人氏","last_day_sign":1544880497,"mud_age":45337,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":65,"weiwang":62,"id":"fumozhang","gender":"男性","last_ip":"1.198.165.93","last_save":1544910848,"attitude":"peaceful","birthday":1544887985,"balance":417586,"combat":(["last_die":"被黑冠巨蟒杀死了","dietimes":2,]),"age":14,])
+skills (["claw":79,"feiyan-zoubi":41,"xiaoyao-xinfa":83,"sword":79,"literate":104,"blade":79,"force":83,"chuancai-jiyi":31,"club":79,"hand":79,"strike":79,"cuff":79,"finger":79,"staff":79,"dodge":81,"cooking":41,"hammer":79,"parry":79,"unarmed":79,"whip":79,])
+learned (["force":4383,"chuancai-jiyi":85,"feiyan-zoubi":1570,"xiaoyao-xinfa":1877,"dodge":5403,"cooking":1579,"literate":6145,"unarmed":297,])
+skill_map (["force":"xiaoyao-xinfa","cooking":"chuancai-jiyi",])
+autoload ({"/clone/money/coin:6066","/clone/misc/baibao","/clone/shizhe/huxindan9:99","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/vip/zhoutian:2539",})
+at_time 1544911140
+ban_say_msg ""

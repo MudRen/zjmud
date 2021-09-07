@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":194,"zjvip":(["times":259029,"kaihuang_gift":1,"last_vip_set":1544871170,"level":1,]),"qi":100,"last_read_news":1544870976,"per":16,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["power":1,]),"shen":0,"character":"狡黠多变","str":14,"score":2067,"p_master":(["last_learnto":50000,]),"title":"普通百姓","skill_point":3,"kar":23,"img":"","level":10,"startroom":"/d/city/kedian","shen_type":0,"max_jingli":30,"lilian":(["start":1544871079,]),"con":24,"water":185,"eff_qi":100,"unit":"位","max_qi":100,"family":(["family_name":"桃花岛",]),"registered":1,"int":30,"month":0,"last_day_sign":1544871088,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":183,"jingli":30,"name":"张清辞","dex":13,"eff_jing":100,"potential":15099,"food":185,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"pN2MGV.5hWrFw","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":55,"id":"lijiu156897","purename":"张清辞","jing":100,"gender":"男性","tianfu_point":0,"last_ip":"182.41.25.248","surname":0,"combat_exp":55000,"type":"智慧型","last_save":1544870976,"max_jing":100,"attitude":"peaceful","neili":50,"birthday":1544870974,"chuwudai":1,"max_neili":50,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+autoload ({"/clone/misc/baibao","/clone/shizhe/huxindan9:99","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1544872086
+ban_say_msg ""

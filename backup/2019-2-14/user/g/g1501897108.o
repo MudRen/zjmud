@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":215340,"last_vip_set":1544928089,"kaihuang_gift":1,"level":1,]),"per":25,"last_read_news":1544884196,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","p_master":(["last_learnto":50000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":(["start":1544884269,]),"con":25,"eff_qi":125,"unit":"位","max_qi":125,"registered":1,"family":(["title":"传人","master_name":"陆乘风","generation":3,"enter_time":1544884425,"privs":0,"family_name":"桃花岛","master_id":"lu chengfeng",]),"mycmds":(["fight":(["b1":"吃护$br#心丹:use huxin dan",]),]),"int":30,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"夜笙歌","jingli":60,"potential":20099,"eff_jing":120,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"YD/vDJAeFIq4s","purename":"夜笙歌","jing":120,"tianfu_point":0,"surname":0,"type":"智慧型","combat_exp":60000,"max_jing":120,"neili":100,"max_neili":100,"chuwudai":1,"online_time":420,"qi":125,"born_family":"没有","class":"scholar","special_skill":(["power":1,]),"last_examine":(["all_quest":0,"mud_age":403,"experience":0,"potential":20099,"time":1544997603,"combat_exp":60000,]),"str":14,"score":2077,"learned_points":233,"title":"桃花岛第三代传人","kar":12,"img":"","startroom":"/d/city/kedian","water":235,"born":"扬州人氏","last_day_sign":1544927938,"mud_age":403,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":235,"weiwang":75,"id":"g1501897108","gender":"男性","last_ip":"223.104.1.116","last_save":1544927930,"attitude":"peaceful","birthday":1544884194,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"luoying-xinfa":19,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":3,"luoying-xinfa":35,])
+skill_map (["force":"luoying-xinfa",])
+autoload ({"/clone/misc/baibao","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/shizhe/huxindan9:97",})
+at_time 1544929004
+ban_say_msg ""

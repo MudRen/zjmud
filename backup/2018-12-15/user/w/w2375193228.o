@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1544809789,]),"online_time":738,"qi":87,"per":19,"last_read_news":1544797620,"born_family":"没有","class":"fighter","env":(["wimpy":60,]),"special_skill":(["agile":1,]),"shen":0,"character":"狡黠多变","str":13,"title":"峨嵋派第五代传人","kar":17,"img":"","yuanbao":0,"shen_type":0,"startroom":"/d/hangzhou/kedian","con":20,"water":230,"eff_qi":87,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"李明霞","generation":5,"enter_time":1544797867,"privs":0,"family_name":"峨嵋派","master_id":"li mingxia",]),"int":27,"month":0,"can_speak":1,"born":"杭州人氏","race":"人类","mud_age":685,"dex":20,"name":"月舞","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"potential":100,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"AJnZbzwxvWrGY","purename":"月舞","id":"w2375193228","jing":100,"gender":"女性","last_ip":"36.60.128.251","surname":0,"last_save":1544809789,"max_jing":100,"attitude":"peaceful","birthday":1544797618,"age":14,])
+autoload ({})
+at_time 1544810706
+ban_say_msg ""

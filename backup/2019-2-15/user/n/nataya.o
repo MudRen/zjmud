@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546560173,"kaihuang_gift":1,]),"online_time":440,"qi":100,"per":25,"last_read_news":1546440375,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":319,"experience":0,"potential":99,"time":1546639202,"combat_exp":330,]),"shen":0,"character":"狡黠多变","str":13,"score":23,"title":"普通百姓","kar":15,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":169,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":319,"dex":13,"name":"悠扬","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":169,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Oh4HsfmV4S23U","purename":"悠扬","id":"nataya","jing":100,"gender":"女性","last_ip":"106.9.91.184","surname":0,"last_save":1546560059,"type":"智慧型","combat_exp":330,"max_jing":100,"attitude":"peaceful","birthday":1546440374,"age":14,])
+skills (["force":3,"dodge":4,"unarmed":3,])
+learned (["force":0,"dodge":0,"unarmed":0,])
+autoload ({"/clone/money/coin:491","/clone/gift/xflb:1",})
+at_time 1546560172
+ban_say_msg ""

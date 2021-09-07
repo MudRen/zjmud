@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546336679,"kaihuang_gift":1,]),"online_time":184,"qi":100,"per":29,"last_read_news":1546336492,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":164,"experience":9986,"potential":19580,"time":1546380007,"combat_exp":59599,]),"shen":0,"character":"阴险奸诈","str":13,"score":2022,"p_master":(["last_learnto":59599,]),"title":"普通百姓","kar":23,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":13,"water":184,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":24,"month":0,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":164,"holiday":(["元旦":(["day1":1,]),]),"dex":30,"name":"白玉京","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":184,"potential":19580,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"dtC7c1knRa6bU","weiwang":71,"purename":"白玉京","id":"adawong1","jing":100,"gender":"男性","last_ip":"43.250.200.48","surname":0,"last_save":1546336492,"type":"敏捷型","combat_exp":59599,"max_jing":100,"attitude":"peaceful","experience":9986,"birthday":1546336490,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1546336680
+ban_say_msg ""

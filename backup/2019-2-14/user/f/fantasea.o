@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["ill_dongshang":7,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545136327,]),"online_time":170,"qi":99,"per":21,"last_read_news":1545135252,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":163,"experience":0,"potential":99,"time":1545170404,"combat_exp":0,]),"shen":0,"character":"光明磊落","str":26,"title":"普通百姓","kar":30,"img":"","shen_type":0,"startroom":"/d/hangzhou/kedian","con":20,"water":194,"eff_qi":99,"unit":"位","max_qi":100,"registered":1,"int":14,"month":0,"can_speak":1,"born":"杭州人氏","race":"人类","mud_age":163,"dex":20,"name":"百里寒","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":194,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"kVIEcAWj8v0Ws","purename":"百里寒","id":"fantasea","jing":100,"gender":"男性","last_ip":"120.230.41.40","surname":0,"last_save":1545136327,"max_jing":100,"attitude":"peaceful","birthday":1545135250,"age":14,])
+autoload ({})
+at_time 1545136332
+ban_say_msg ""

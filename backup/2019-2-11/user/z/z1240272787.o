@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":654,"zjvip":(["times":0,"last_vip_set":1548199399,]),"qi":100,"last_read_news":1546872347,"per":21,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":481,"experience":0,"potential":99,"time":1548280802,"combat_exp":0,]),"shen":0,"character":"阴险奸诈","str":13,"title":"普通百姓","kar":12,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":15,"water":229,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":22,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":481,"name":"太上","dex":30,"eff_jing":100,"potential":99,"food":229,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"gSSwPyBw3e99s","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"z1240272787","purename":"太上","jing":100,"gender":"男性","last_ip":"14.30.16.227","surname":0,"last_save":1548199388,"max_jing":100,"attitude":"peaceful","birthday":1546872345,"age":14,])
+autoload ({})
+at_time 1548199408
+ban_say_msg ""

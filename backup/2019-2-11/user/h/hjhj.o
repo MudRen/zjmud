@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546091599,]),"online_time":1676,"qi":100,"per":17,"last_read_news":1545783586,"born_family":"没有","class":"alchemist","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"last_examine":(["all_quest":0,"mud_age":1681,"experience":0,"potential":5112,"time":1546120803,"combat_exp":5042,]),"shen":0,"character":"狡黠多变","str":13,"title":"逍遥派第四代传人","kar":10,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":46,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"冯阿三","generation":4,"enter_time":1546090178,"privs":0,"family_name":"逍遥派","master_id":"feng asan",]),"int":30,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1546089938,"race":"人类","mud_age":1681,"dex":13,"name":"御神","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":46,"potential":5112,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"AaeX68UJ.DfCU","purename":"御神","id":"hjhj","jing":100,"gender":"男性","last_ip":"111.34.188.164","surname":0,"last_save":1546091443,"combat_exp":5042,"max_jing":100,"attitude":"peaceful","birthday":1545783584,"age":14,])
+skills (["literate":2,])
+learned (["literate":5,])
+autoload ({"/clone/cloth/cuttonp","/clone/money/coin:21",})
+at_time 1546091598
+ban_say_msg ""

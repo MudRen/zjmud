@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":18142,"zjvip":(["times":231029,"kaihuang_gift":1,"last_vip_set":1544910972,"level":1,]),"qi":141,"last_read_news":1544873808,"per":30,"born_family":"没有","class":"scholar","env":(["combatd":5,"keep_idle":1,"sign5":"eat jiuzhuan jindan;eat huohong xiandan;eat xiandan;eat shenli wan;eat xisui dan","wimpy":60,"no_accept":"all",]),"special_skill":(["agile":1,]),"shen":0,"character":"狡黠多变","str":13,"score":2415,"p_master":(["last_learnto":55300,]),"learned_points":63,"title":"桃花岛第三代传人","kar":14,"img":"","startroom":"/d/city/kedian","shen_type":0,"max_jingli":107,"lilian":(["start":1544909176,]),"con":24,"water":59,"eff_qi":141,"unit":"位","max_qi":141,"registered":1,"family":(["title":"传人","master_name":"冯默风","generation":3,"enter_time":1544882795,"privs":0,"family_name":"桃花岛","master_id":"feng mofeng",]),"int":30,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":18553,"jingli":225,"name":"段子绝孙","dex":13,"eff_jing":100,"potential":11038,"food":59,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"uclTWc2PRbrUk","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":54,"id":"power","purename":"段子绝孙","jing":44,"gender":"男性","last_ip":"14.210.81.192","surname":0,"combat_exp":61866,"type":"智慧型","last_save":1544910663,"max_jing":100,"attitude":"peaceful","neili":165,"birthday":1544873807,"balance":60404,"chuwudai":1,"max_neili":165,"age":14,])
+skills (["claw":80,"sword":80,"literate":5,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"luoying-xinfa":30,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"anying-fuxiang":1,"unarmed":80,"whip":80,])
+learned (["force":88,"dodge":34,"luoying-xinfa":435,"literate":0,"anying-fuxiang":0,"unarmed":80,])
+skill_map (["force":"luoying-xinfa",])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/shizhe/huxindan9:99","/clone/misc/baibao",})
+at_time 1544910966
+ban_say_msg ""

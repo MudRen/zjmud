@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545482713,]),"online_time":288,"qi":2,"per":22,"last_read_news":1545482428,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":205,"experience":0,"potential":100,"time":1545516002,"combat_exp":0,]),"shen":0,"die_protect":(["duration":7200,"last_dead":1545482684,]),"character":"心狠手辣","str":13,"score":0,"title":"普通百姓","kar":25,"img":"","shen_type":0,"startroom":"/d/city/wumiao","con":30,"water":178,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"mycmds":(["fight":(["b2":"吃护$br#心丹:use huxin dan","b1":"绝技$br#一:aa",]),]),"int":24,"month":0,"can_speak":1,"born":"巴蜀人氏","race":"人类","mud_age":205,"dex":13,"name":"唐圣","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":178,"potential":100,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"NhJlQaZJPvJv6","weiwang":0,"purename":"唐圣","id":"wwll","jing":2,"gender":"男性","last_ip":"111.2.135.81","surname":0,"last_save":1545482428,"type":"耐力型","combat_exp":0,"max_jing":100,"attitude":"peaceful","birthday":1545482426,"combat":(["last_die":"被白骆驼杀死了","dietimes":1,]),"age":14,])
+autoload ({})
+at_time 1545483634
+ban_say_msg ""

@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1548212665,"kaihuang_gift":1,]),"per":12,"last_read_news":1548210636,"env":(["wimpy":60,]),"shen":-1000,"character":"心狠手辣","p_master":(["last_learnto":50000,]),"skill_point":3,"level":10,"shen_type":0,"max_jingli":30,"con":24,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"狮吼子","generation":3,"enter_time":1548210765,"privs":0,"family_name":"星宿派","master_id":"shihou zi",]),"int":13,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"老毒物","jingli":30,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"LcHpDEQXJ/IWQ","purename":"老毒物","jing":100,"tianfu_point":1,"surname":0,"type":"猛士型","combat_exp":50000,"max_jing":100,"neili":125,"max_neili":63,"online_time":2006,"qi":20,"born_family":"没有","class":"fighter","special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":1975,"experience":0,"potential":10099,"time":1548280802,"combat_exp":50000,]),"str":30,"score":2081,"learned_points":228,"title":"星宿派第三代传人","kar":21,"img":"","yuanbao":0,"startroom":"/d/city/kedian","water":15,"born":"扬州人氏","mud_age":1975,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":55,"weiwang":79,"id":"cast01","gender":"男性","last_ip":"119.4.253.46","last_save":1548212474,"attitude":"peaceful","birthday":1548210634,"combat":(["eatman":4,]),"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"guixi-gong":17,"hand":80,"strike":80,"cuff":80,"poison":9,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["guixi-gong":105,"poison":16,])
+skill_map (["force":"guixi-gong",])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1548213584
+ban_say_msg ""

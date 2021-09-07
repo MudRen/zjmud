@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1544824263,]),"online_time":74,"qi":8,"per":26,"last_read_news":1544809682,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["power":1,]),"shen":0,"character":"狡黠多变","str":13,"score":3,"title":"普通百姓","kar":21,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":230,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":34,"dex":13,"name":"刚出锅","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"potential":100,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"IiVablQxDldSE","purename":"刚出锅","id":"fhv1","jing":100,"gender":"男性","last_ip":"117.182.0.20","surname":0,"last_save":1544809682,"type":"智慧型","combat_exp":43,"max_jing":100,"attitude":"peaceful","birthday":1544809680,"age":14,])
+skills (["force":2,])
+learned (["force":0,])
+autoload ({"/clone/money/coin:64",})
+at_time 1544809758
+ban_say_msg ""

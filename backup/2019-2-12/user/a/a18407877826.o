@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":858,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1547270717,]),"qi":63,"last_read_news":1547268873,"per":18,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":777,"experience":0,"potential":10099,"time":1547330402,"combat_exp":50000,]),"shen":0,"character":"阴险奸诈","str":13,"score":2039,"p_master":(["last_learnto":50000,]),"title":"普通百姓","kar":10,"img":"","level":1,"startroom":"/d/city/kedian","shen_type":0,"max_jingli":3,"con":13,"water":189,"eff_qi":64,"unit":"位","max_qi":101,"registered":1,"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":24,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":777,"jingli":3,"name":"唐玉","dex":30,"eff_jing":101,"potential":10099,"food":189,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"VKphuZOfTGnrA","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":54,"id":"a18407877826","purename":"唐玉","jing":101,"gender":"女性","last_ip":"124.160.213.84","surname":0,"combat_exp":50000,"type":"敏捷型","last_save":1547270591,"max_jing":101,"attitude":"peaceful","neili":5,"birthday":1547268871,"max_neili":5,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1547271638
+ban_say_msg ""

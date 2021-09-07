@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1547196455,]),"online_time":440,"qi":100,"per":27,"last_read_news":1547196011,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["trick":1,]),"last_examine":(["all_quest":0,"mud_age":363,"experience":0,"potential":99,"time":1547244003,"combat_exp":0,]),"shen":0,"character":"光明磊落","str":13,"title":"普通百姓","kar":16,"img":"","shen_type":0,"startroom":"/d/fuzhou/kedian","con":13,"water":163,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":24,"month":0,"can_speak":1,"born":"福建人氏","race":"人类","mud_age":363,"dex":30,"name":"如梦","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":163,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"oxgFnqHypovRg","purename":"如梦","id":"zj3873","jing":100,"gender":"女性","last_ip":"27.156.151.139","surname":0,"last_save":1547196317,"type":"敏捷型","max_jing":100,"attitude":"peaceful","birthday":1547196009,"age":14,])
+autoload ({})
+at_time 1547196458
+ban_say_msg ""

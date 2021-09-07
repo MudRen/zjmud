@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546224918,"kaihuang_gift":1,]),"online_time":128,"qi":100,"per":28,"last_read_news":1546224794,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["trick":1,]),"last_examine":(["all_quest":0,"mud_age":114,"experience":0,"potential":15099,"time":1546293607,"combat_exp":55001,]),"shen":-238,"character":"狡黠多变","str":13,"score":2096,"p_master":(["last_learnto":50000,]),"title":"普通百姓","kar":17,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":190,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":30,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1546224848,"race":"人类","mud_age":114,"dex":13,"name":"幽栀","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":190,"potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"pP.9LhxthfvD6","weiwang":77,"purename":"幽栀","id":"youzhi","jing":100,"gender":"女性","last_ip":"112.28.166.106","surname":0,"last_save":1546224794,"type":"智慧型","combat_exp":55001,"max_jing":100,"attitude":"peaceful","birthday":1546224793,"combat":(["MKS":1,]),"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:149","/clone/gift/gong",})
+at_time 1546224926
+ban_say_msg ""

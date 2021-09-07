@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":18,"zjvip":(["times":0,"last_vip_set":1544828396,]),"qi":100,"last_read_news":1544828377,"per":10,"env":(["wimpy":60,]),"shen":0,"str":10,"title":"普通百姓","kar":15,"img":"","startroom":"/d/register/entry","shen_type":0,"con":10,"water":198,"eff_qi":100,"unit":"位","max_qi":100,"int":10,"month":0,"can_speak":1,"race":"人类","mud_age":19,"name":"邪魅","dex":10,"eff_jing":100,"potential":99,"food":198,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"mXN0pMHun/KDI","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"a18228906056","purename":"邪魅","jing":100,"gender":"男性","last_ip":"171.210.162.225","surname":0,"last_save":1544828377,"max_jing":100,"attitude":"peaceful","birthday":1544828376,"age":14,])
+autoload ({})
+at_time 1544829310
+ban_say_msg ""

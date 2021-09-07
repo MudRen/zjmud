@@ -1,0 +1,3 @@
+#/clone/misc/baibao.c
+dbase (["owner_id":"p2550236","no_steal":1,"no_drop":1,"no_give":1,"name":"[1;37m´¢Îï´ü[2;37;0m","no_put":1,"no_get":1,"no_sell":1,"id":"chuwu dai","long":"[1;37mÒ»¸öÉñÆæµÄ´ü×Ó£¬¿ÉÒÔ´æÈ¡Ğí¶à±¦±´¡£[2;37;0m","unit":"¸ö",])
+baowus (["3":(["data":"([\"name\":\"½ğÉßµ¨\",\"id\":\"jin dan\",])","id":({"jin dan","jin",}),"file":"/d/baituo/npc/obj/jindan","short":"½ğÉßµ¨",]),"2":(["data":"([\"name\":\"ÇàÉßµ¨\",\"id\":\"qing dan\",])","id":({"qing dan","qing",}),"file":"/d/baituo/npc/obj/qingdan","short":"ÇàÉßµ¨",]),"1":(["data":"([\"name\":\"ÇàÉßµ¨\",\"id\":\"qing dan\",])","id":({"qing dan","qing",}),"file":"/d/baituo/npc/obj/qingdan","short":"ÇàÉßµ¨",]),])

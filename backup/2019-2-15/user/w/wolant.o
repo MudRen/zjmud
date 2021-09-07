@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545914598,"kaihuang_gift":1,]),"online_time":214,"qi":100,"per":24,"last_read_news":1545914387,"born_family":"没有","class":"swordsman","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":178,"experience":0,"potential":15099,"time":1545948006,"combat_exp":55000,]),"shen":0,"character":"狡黠多变","str":13,"score":2052,"p_master":(["last_learnto":50000,]),"learned_points":16,"title":"华山剑宗第十四代弟子","kar":29,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":182,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"封不平","generation":14,"enter_time":1545914590,"privs":0,"family_name":"华山剑宗","master_id":"feng buping",]),"int":30,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1545914455,"race":"人类","mud_age":178,"dex":13,"name":"疯子阳","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":182,"potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"SA6PhVhpGaQIA","weiwang":74,"purename":"疯子阳","id":"wolant","jing":24,"gender":"男性","last_ip":"39.82.72.36","surname":0,"last_save":1545914387,"type":"智慧型","combat_exp":55000,"max_jing":100,"attitude":"peaceful","birthday":1545914386,"chuwudai":1,"age":14,])
+skills (["claw":80,"huashan-xinfa":7,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["huashan-xinfa":20,])
+autoload ({"/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1545914604
+ban_say_msg ""

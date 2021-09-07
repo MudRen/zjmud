@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["yuanbao_used":100,"all_pay":10,"times":4150002,"kaihuang_gift":1,"last_vip_set":1544871833,"level":1,"master":"q456789",]),"last_read_news":1544875686,"per":26,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","p_master":(["qinmi":1,"name":"唐三","last_learnto":50000,"id":"q456789",]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"con":21,"eff_qi":126,"unit":"位","max_qi":253,"family":(["title":"传人","privs":0,"enter_time":1544875878,"generation":17,"master_name":"慕容复","family_name":"慕容世家","master_id":"murong fu",]),"registered":1,"int":14,"month":0,"can_speak":1,"race":"人类","jingli":60,"name":"慕容扶苏","dex":21,"eff_jing":120,"potential":15099,"sec_id":"vYAzQIarSn/Xc","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"扶苏","jing":120,"tianfu_point":0,"surname":"慕容","combat_exp":55000,"max_jing":120,"neili":1128,"max_neili":614,"chuwudai":1,"online_time":4758,"qi":125,"born_family":"慕容世家","special_skill":(["power":1,]),"str":26,"score":2092,"learned_points":15099,"title":"慕容世家第十七代传人","kar":26,"img":"","startroom":"/d/yanziwu/cuixia","yuanbao":5,"water":359,"baishi_times":1,"last_day_sign":1544876104,"born":"江南人氏","mud_age":4988,"food":359,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":57,"id":"yjy001204","gender":"男性","last_ip":"117.136.4.153","last_save":1544871822,"attitude":"peaceful","birthday":1544875685,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"zihui-xinfa":60,"hand":80,"strike":80,"cuff":80,"murong-sword":49,"finger":80,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["force":55,"zihui-xinfa":3710,"murong-sword":1127,])
+skill_map (["force":"zihui-xinfa","sword":"murong-sword",])
+autoload ({"/clone/misc/baibao","/clone/shizhe/huxindan9:39","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1544871834
+ban_say_msg ""

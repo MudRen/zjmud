@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":1562,"zjvip":(["times":258461,"kaihuang_gift":1,"last_vip_set":1544832631,"level":1,]),"qi":100,"last_read_news":1544831052,"per":17,"class":"alchemist","born_family":"没有","env":(["keep_idle":1,"wimpy":60,]),"special_skill":(["self":1,]),"shen":0,"character":"狡黠多变","str":14,"score":2065,"learned_points":351,"p_master":(["last_learnto":50681,]),"title":"逍遥派第四代传人","skill_point":6,"kar":24,"img":"","level":20,"startroom":"/d/city/kedian","shen_type":0,"max_jingli":60,"con":24,"water":68,"eff_qi":100,"unit":"位","max_qi":100,"family":(["title":"传人","privs":0,"enter_time":1544831950,"generation":4,"master_name":"冯阿三","family_name":"逍遥派","master_id":"feng asan",]),"registered":1,"int":31,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":1560,"jingli":60,"name":"清风岭","dex":13,"eff_jing":100,"potential":10099,"food":68,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":".j6n9uANHZo7.","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":52,"id":"xiaofeng369","purename":"清风岭","jing":0,"gender":"男性","tianfu_point":0,"last_ip":"223.96.41.193","surname":0,"combat_exp":50681,"type":"智慧型","last_save":1544832578,"max_jing":100,"attitude":"peaceful","neili":0,"birthday":1544831051,"max_neili":123,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"feiyan-zoubi":7,"strike":80,"xiaoyao-xinfa":22,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+learned (["force":21,"dodge":0,"feiyan-zoubi":6,"xiaoyao-xinfa":358,"unarmed":18,])
+skill_map (["force":"xiaoyao-xinfa",])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong","/clone/money/coin:1009",})
+at_time 1544832638
+ban_say_msg ""

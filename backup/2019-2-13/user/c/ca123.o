@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1548096914,]),"online_time":1192,"qi":1,"per":23,"last_read_news":1548095704,"born_family":"段氏皇族","class":"royal","env":(["wimpy":60,]),"special_skill":(["youth":1,]),"last_examine":(["all_quest":0,"mud_age":1165,"experience":0,"potential":181,"time":1548108006,"combat_exp":400,]),"shen":0,"die_protect":(["duration":7200,"last_dead":1548096906,]),"character":"狡黠多变","str":13,"score":19,"learned_points":38,"title":"段氏皇族第十六代传人","gongxian":1,"kar":11,"img":"","shimen":(["today":1,"last":1548096728,]),"shen_type":0,"startroom":"/d/city/wumiao","con":24,"water":91,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"段正淳","generation":16,"enter_time":1548096522,"privs":0,"family_name":"段氏皇族","master_id":"duan zhengchun",]),"int":30,"month":0,"can_speak":1,"born":"大理人氏","out_family":1,"race":"人类","mud_age":1165,"dex":13,"name":"段画卿","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":91,"potential":181,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"atNqwgpuiuN9w","weiwang":2,"purename":"画卿","id":"ca123","jing":1,"gender":"男性","last_ip":"112.115.169.146","surname":"段","last_save":1548096624,"type":"智慧型","combat_exp":400,"max_jing":100,"attitude":"peaceful","experience":0,"birthday":1548095703,"combat":(["last_die":"被朱丹臣刺死了","dietimes":1,]),"age":14,])
+skills (["force":9,"dodge":3,"literate":3,"unarmed":2,])
+learned (["force":62,"dodge":0,"literate":6,"unarmed":3,])
+autoload ({"/clone/money/silver:3","/clone/money/coin:372",})
+at_time 1548097832
+ban_say_msg ""

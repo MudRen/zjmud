@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1548826196,"kaihuang_gift":1,]),"online_time":360,"qi":100,"per":13,"last_read_news":1548825831,"born_family":"没有","class":"beggar","env":(["wimpy":60,]),"special_skill":(["trick":1,]),"last_examine":(["all_quest":0,"mud_age":305,"experience":0,"potential":15099,"time":1548885611,"combat_exp":55000,]),"shen":0,"character":"光明磊落","str":30,"score":2048,"p_master":(["last_learnto":55000,]),"learned_points":20,"title":"丐帮第二十代传人","skill_point":6,"kar":25,"img":"","level":20,"shen_type":0,"startroom":"/d/city/kedian","max_jingli":60,"con":24,"water":172,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"马俱为","generation":20,"enter_time":1548826085,"privs":0,"family_name":"丐帮","master_id":"ma juwei",]),"int":14,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1548825912,"race":"人类","mud_age":305,"dex":14,"name":"看看先","jingli":60,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":172,"potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"JlNU4UupB6uOA","weiwang":54,"purename":"看看先","id":"y20001123","jing":30,"gender":"男性","last_ip":"120.239.161.64","tianfu_point":0,"surname":0,"last_save":1548826133,"combat_exp":55000,"max_jing":100,"attitude":"peaceful","neili":76,"birthday":1548825830,"max_neili":100,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"jiaohua-neigong":4,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":76,"jiaohua-neigong":0,])
+skill_map (["force":"jiaohua-neigong",])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong","/clone/shizhe/dan_chongmai1:1",})
+at_time 1548826196
+ban_say_msg ""

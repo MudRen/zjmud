@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1549775905,"kaihuang_gift":1,]),"online_time":468,"qi":100,"per":15,"last_read_news":1549775437,"born_family":"没有","class":"swordsman","env":(["combatd":5,"wimpy":60,"combatd2":1,]),"special_skill":(["trick":1,]),"last_examine":(["all_quest":0,"mud_age":439,"experience":0,"potential":15099,"time":1549836007,"combat_exp":55000,]),"shen":0,"character":"阴险奸诈","str":13,"score":2090,"p_master":(["last_learnto":55000,]),"learned_points":118,"title":"华山剑宗第十四代弟子","skill_point":6,"kar":24,"img":"","level":20,"shen_type":0,"startroom":"/d/city/kedian","max_jingli":60,"con":15,"water":156,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"封不平","generation":14,"enter_time":1549775571,"privs":0,"family_name":"华山剑宗","master_id":"feng buping",]),"int":24,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1549775487,"race":"人类","mud_age":439,"dex":30,"name":"随风散","jingli":60,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":156,"potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"fROQ2513937MM","weiwang":79,"purename":"随风散","id":"xiaohao1000","jing":0,"gender":"男性","last_ip":"117.188.61.90","tianfu_point":0,"surname":0,"last_save":1549775746,"type":"敏捷型","combat_exp":55000,"max_jing":100,"attitude":"peaceful","neili":0,"birthday":1549775435,"max_neili":103,"age":14,])
+skills (["claw":80,"huashan-xinfa":14,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["huashan-xinfa":162,])
+skill_map (["force":"huashan-xinfa",])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong","/clone/shizhe/dan_chongmai1:1",})
+at_time 1549775910
+ban_say_msg ""

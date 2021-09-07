@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1549168080,"kaihuang_gift":1,"level":1,]),"per":24,"last_read_news":1544966875,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":50000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":(["start":1544966990,]),"con":24,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"冯阿三","generation":4,"enter_time":1544967257,"privs":0,"family_name":"逍遥派","master_id":"feng asan",]),"int":30,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"逆风笑","jingli":60,"potential":20099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"By/siTcso3Izc","purename":"逆风笑","jing":100,"tianfu_point":2,"surname":0,"type":"智慧型","combat_exp":60127,"max_jing":100,"neili":100,"max_neili":100,"online_time":2234,"qi":100,"born_family":"没有","class":"alchemist","special_skill":(["mystery":1,]),"last_examine":(["all_quest":0,"mud_age":2188,"experience":0,"potential":20099,"time":1549231209,"combat_exp":60127,]),"str":13,"score":2059,"learned_points":3174,"title":"逍遥派第四代传人","kar":20,"img":"","startroom":"/d/city/kedian","water":73,"born":"扬州人氏","last_day_sign":1549166404,"last_zhoutian":1549166783,"mud_age":2188,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":73,"weiwang":58,"id":"yimeng","gender":"男性","last_ip":"183.93.98.159","last_save":1549167918,"attitude":"peaceful","birthday":1544966874,"balance":4,"age":14,])
+skills (["claw":80,"xiaoyao-xinfa":46,"sword":80,"literate":2,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":2,"dodge":7,"literate":9,"xiaoyao-xinfa":451,])
+skill_map (["force":"xiaoyao-xinfa",])
+autoload ({"/clone/money/coin:108","/clone/shizhe/dan_chongmai1:1","/clone/shizhe/huxindan9:99","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1549168082
+ban_say_msg ""

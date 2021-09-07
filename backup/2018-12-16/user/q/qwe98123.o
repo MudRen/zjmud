@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1544822934,]),"online_time":2472,"qi":66,"per":26,"last_read_news":1544819621,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":2393,"experience":0,"potential":105,"time":1544824803,"combat_exp":760,]),"shen":-40,"character":"心狠手辣","str":19,"score":52,"title":"普通百姓","kar":14,"img":"","shen_type":0,"startroom":"/d/xiangyang/kedian","con":22,"water":62,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":20,"month":0,"can_speak":1,"born":"荆州人氏","race":"人类","mud_age":2393,"dex":19,"name":"宁涅天","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":62,"potential":105,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"FmlThEMZttEKQ","purename":"宁涅天","id":"qwe98123","jing":87,"gender":"男性","last_ip":"182.110.51.213","surname":0,"last_save":1544822636,"combat_exp":760,"max_jing":100,"attitude":"peaceful","birthday":1544819619,"combat":(["MKS":1,]),"age":14,])
+skills (["force":4,"dodge":5,"unarmed":4,])
+learned (["force":0,"dodge":11,"unarmed":23,])
+autoload ({"/clone/money/coin:1126",})
+at_time 1544822942
+ban_say_msg ""

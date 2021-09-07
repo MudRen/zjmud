@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":414,"zjvip":(["times":0,"last_vip_set":1544829975,]),"qi":100,"last_read_news":1544829560,"per":19,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["hatred":1,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":27,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":24,"water":162,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":309,"name":"数据","dex":13,"eff_jing":100,"potential":99,"food":162,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"dZbXVtWjeB1rc","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"xwjy","purename":"数据","jing":100,"gender":"男性","last_ip":"36.56.91.76","surname":0,"last_save":1544829861,"max_jing":100,"attitude":"peaceful","birthday":1544829558,"age":14,])
+autoload ({})
+at_time 1544829978
+ban_say_msg ""

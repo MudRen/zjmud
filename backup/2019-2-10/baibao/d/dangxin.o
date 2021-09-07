@@ -1,0 +1,3 @@
+#/clone/misc/baibao.c
+dbase (["owner_id":"dangxin","no_steal":1,"no_drop":1,"no_give":1,"name":"[1;37m´¢Îï´ü[2;37;0m","no_put":1,"no_get":1,"no_sell":1,"id":"chuwu dai","long":"[1;37mÒ»¸öÉñÆæµÄ´ü×Ó£¬¿ÉÒÔ´æÈ¡Ğí¶à±¦±´¡£[2;37;0m","unit":"¸ö",])
+baowus (["3":(["data":"([\"name\":\"Ãæ¾ß\",\"id\":\"mian ju\",])","id":({"mian ju","mask",}),"short":"Ãæ¾ß","file":"/clone/misc/mask",]),"1":(["data":"([\"name\":\"Çá¹¦ÈëÃÅ\",\"id\":\"dodge book\",])","id":({"dodge book","book",}),"short":"Çá¹¦ÈëÃÅ","file":"/clone/book/basic-dodge",]),])

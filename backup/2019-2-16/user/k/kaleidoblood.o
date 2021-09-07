@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546490152,]),"online_time":208,"qi":65,"per":10,"last_read_news":1544894441,"env":(["wimpy":60,]),"last_examine":(["all_quest":0,"mud_age":187,"experience":0,"potential":99,"time":1546552804,"combat_exp":0,]),"shen":0,"str":10,"title":"普通百姓","kar":14,"img":"","shen_type":0,"startroom":"/d/register/entry","con":10,"water":200,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":10,"month":0,"can_speak":1,"race":"人类","mud_age":187,"dex":10,"name":"李尘","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":200,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"JYuxT3TE5m3Vo","purename":"李尘","id":"kaleidoblood","jing":45,"gender":"男性","last_ip":"223.104.145.218","surname":0,"last_save":1546490152,"max_jing":100,"attitude":"peaceful","birthday":1544894440,"age":14,])
+autoload ({})
+at_time 1546490156
+ban_say_msg ""

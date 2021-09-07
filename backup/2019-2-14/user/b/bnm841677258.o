@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1549455259,]),"online_time":60,"qi":100,"per":10,"last_read_news":1549455208,"env":(["wimpy":60,]),"last_examine":(["all_quest":0,"mud_age":52,"experience":0,"potential":99,"time":1549490410,"combat_exp":0,]),"shen":0,"str":10,"title":"普通百姓","kar":20,"img":"","shen_type":0,"startroom":"/d/register/entry","con":10,"water":195,"eff_qi":100,"unit":"位","max_qi":100,"int":10,"month":0,"can_speak":1,"race":"人类","mud_age":52,"dex":10,"name":"渣渣","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":195,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"wjx..PTVagUew","purename":"渣渣","id":"bnm841677258","jing":100,"gender":"男性","last_ip":"220.173.170.4","surname":0,"last_save":1549455207,"max_jing":100,"attitude":"peaceful","birthday":1549455206,"age":14,])
+autoload ({})
+at_time 1549455268
+ban_say_msg ""

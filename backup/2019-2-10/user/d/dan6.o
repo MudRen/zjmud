@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":5002,"zjvip":(["times":0,"last_vip_set":1545556399,"kaihuang_gift":1,"level":1,]),"qi":100,"last_read_news":1544872501,"per":29,"born_family":"没有","class":"bonze","env":(["wimpy":60,]),"special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":5127,"experience":0,"potential":10100,"time":1545602403,"combat_exp":50000,]),"shen":0,"character":"光明磊落","str":27,"score":2022,"shen_record":0,"p_master":(["last_learnto":50000,]),"learned_points":540,"title":"少林派第四十一代传人","jiali":47,"kar":22,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":20,"water":362,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"清法比丘","generation":41,"enter_time":1544877528,"privs":0,"family_name":"少林派","master_id":"qingfa biqiu",]),"gift":(["xiandan":1,]),"int":14,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":5127,"name":"空混","dex":20,"eff_jing":100,"potential":10100,"food":362,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"VTkDpX7Nxgyc2","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":75,"id":"dan6","purename":"混混","jing":100,"gender":"男性","last_ip":"122.96.40.12","surname":0,"last_save":1545556316,"combat_exp":50000,"max_jing":100,"attitude":"peaceful","neili":0,"birthday":1544872499,"chuwudai":1,"age":14,"K_record":0,])
+skills (["claw":80,"shaolin-xinfa":18,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,"shaolin-shenfa":17,])
+learned (["shaolin-xinfa":81,"shaolin-shenfa":155,])
+skill_map (["force":"shaolin-xinfa","dodge":"shaolin-shenfa",])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/misc/baibao",})
+at_time 1545557316
+ban_say_msg ""

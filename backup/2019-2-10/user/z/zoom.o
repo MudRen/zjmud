@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":254310,"all_pay":0,"last_vip_set":1544817265,"kaihuang_gift":1,"level":1,]),"per":30,"last_read_news":1544812344,"env":(["wimpy":60,]),"shen":0,"character":"阴险奸诈","p_master":(["last_learnto":50000,]),"skill_point":3,"level":10,"shen_type":0,"max_jingli":30,"lilian":(["start":1544814590,]),"con":13,"eff_qi":81,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"矮老者","generation":13,"enter_time":1544812564,"privs":0,"family_name":"华山派","master_id":"ai laozhe",]),"mycmds":(["fight":(["b10":"紫霞$br#真气:exert force.powerup",]),]),"int":24,"month":0,"can_speak":1,"race":"人类","dex":30,"name":"渡情","jingli":30,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"rG2YBABkLRv2A","purename":"渡情","jing":0,"tianfu_point":1,"surname":0,"type":"敏捷型","combat_exp":50000,"max_jing":100,"neili":16,"chuwudai":1,"max_neili":54,"online_time":4696,"qi":81,"born_family":"没有","class":"swordsman","special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":4837,"experience":0,"potential":10099,"time":1544824803,"combat_exp":50000,]),"str":13,"score":2054,"learned_points":4688,"title":"华山派第十三代传人","kar":15,"img":"","yuanbao":0,"startroom":"/d/city/kedian","water":58,"born":"扬州人氏","mud_age":4837,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":58,"weiwang":53,"id":"zoom","gender":"男性","last_ip":"122.96.42.32","last_save":1544817243,"attitude":"peaceful","birthday":1544812343,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"zixia-shengong":50,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":1,"zixia-shengong":2533,])
+skill_map (["force":"zixia-shengong",])
+autoload ({"/clone/shizhe/huxindan9:99","/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1544817274
+ban_say_msg ""

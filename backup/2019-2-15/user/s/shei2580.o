@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1549880508,"kaihuang_gift":1,]),"online_time":112566,"qi":304,"per":20,"last_read_news":1548068237,"born_family":"没有","class":"dancer","env":(["wimpy":60,]),"special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":114180,"experience":0,"potential":60099,"time":1549922402,"combat_exp":100000,]),"shen":0,"character":"狡黠多变","str":13,"score":2073,"p_master":(["last_learnto":55000,]),"learned_points":4636,"title":"灵鹫宫第四代传人","kar":11,"img":"","yuanbao":0,"shen_type":0,"startroom":"/d/city/kedian","con":24,"water":230,"eff_qi":304,"unit":"位","max_qi":350,"registered":1,"family":(["title":"传人","master_name":"梅剑","generation":4,"enter_time":1548068308,"privs":0,"family_name":"灵鹫宫","master_id":"mei jian",]),"int":30,"month":5,"can_speak":1,"born":"扬州人氏","last_day_sign":1549880516,"race":"人类","mud_age":114180,"holiday":([]),"dex":13,"name":"初爱","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"potential":60099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"meRUuxhBmQ676","weiwang":62,"purename":"初爱","id":"shei2580","jing":100,"gender":"女性","last_ip":"110.51.219.237","surname":0,"last_save":1549880508,"type":"智慧型","combat_exp":100000,"max_jing":100,"attitude":"peaceful","neili":1538,"birthday":1548068236,"chuwudai":1,"max_neili":1003,"age":14,])
+skills (["claw":80,"lingjiu-xinfa":70,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["lingjiu-xinfa":3145,])
+skill_map (["force":"lingjiu-xinfa",])
+autoload ({"/clone/shizhe/dan_chongmai1:10","/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1549880518
+ban_say_msg ""

@@ -1,0 +1,3 @@
+#/clone/misc/baibao.c
+dbase (["owner_id":"q456789","no_steal":1,"no_drop":1,"no_give":1,"name":"[1;37m´¢Îï´ü[2;37;0m","no_put":1,"no_get":1,"no_sell":1,"id":"chuwu dai","long":"[1;37mÒ»¸öÉñÆæµÄ´ü×Ó£¬¿ÉÒÔ´æÈ¡Ğí¶à±¦±´¡£[2;37;0m","unit":"¸ö",])
+baowus (["2":(["amount":100,"data":"([\"value\":50000,\"name\":\"ÀÇÑÀ¼ı\",\"amount\":100,\"no_wield\":\"Õâ²»ÊÇÓÃÀ´×°±¸µÄ¡£\",\"id\":\"arrow\",])","id":({"arrow","jian",}),"short":"ÀÇÑÀ¼ı","file":"/clone/weapon/wolfarrow",]),"1":(["amount":1,"data":"([\"value\":10000,\"name\":\"[1;31mÍòÄê»ğÁéÖ¥[2;37;0m\",\"amount\":1,\"id\":\"huo lingzhi\",])","id":({"huo lingzhi",}),"file":"/clone/vip/huolingzhi","short":"[1;31mÍòÄê»ğÁéÖ¥[2;37;0m",]),])

@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546179546,"kaihuang_gift":1,]),"per":25,"last_read_news":1546178906,"env":(["wimpy":60,]),"shen":-2,"character":"心狠手辣","p_master":(["last_learnto":50000,]),"gongxian":4,"shen_type":0,"con":24,"eff_qi":77,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"摘星子","generation":3,"enter_time":1546179044,"privs":0,"family_name":"星宿派","master_id":"zhaixing zi",]),"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":13,"month":0,"can_speak":1,"out_family":1,"race":"人类","dex":13,"name":"三观","potential":10104,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"TkWIrHC1bJ8EA","purename":"三观","jing":100,"surname":0,"type":"猛士型","combat_exp":50132,"max_jing":100,"neili":0,"experience":0,"chuwudai":1,"online_time":636,"qi":76,"born_family":"没有","class":"fighter","quest_count":4,"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":565,"experience":0,"potential":10104,"time":1546207204,"combat_exp":50132,]),"str":30,"score":2101,"learned_points":7,"title":"星宿派第三代传人","kar":18,"img":"","shimen":(["today":4,"last":1546179107,]),"startroom":"/d/foshan/beidimiao","water":142,"born":"两广人氏","mud_age":565,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":142,"weiwang":82,"quest":(["notice":"die","family":"星宿派","place":"福州城","limit":1546180195,"name":"樊皋","id":"fan gao","full_id":({"fan gao","fan","gao",}),"count":4,"master_name":"丁春秋","time":1546179322,"type":"kill","finished":1,"level":2,"master_id":"ding chunqiu",]),"id":"z15036385920","gender":"男性","last_ip":"223.104.6.70","last_save":1546179515,"attitude":"peaceful","birthday":1546178904,"combat":(["MKS":5,]),"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"guixi-gong":4,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["guixi-gong":0,])
+skill_map (["force":"guixi-gong",])
+autoload ({"/clone/money/silver:98","/clone/money/gold:8","/clone/misc/baibao","/clone/vip/putao:1","/clone/gift/bagua:293","/clone/gift/arrow:142","/clone/gift/gong",})
+at_time 1546179554
+ban_say_msg ""

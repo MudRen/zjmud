@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["all_pay":0,"times":0,"kaihuang_gift":1,"last_vip_set":1548927341,]),"per":22,"last_read_news":1548871858,"env":(["sign5":"shot;get putao;get silver from corpse;get lack card from corpse;accept quest","wimpy":60,]),"last_sleep":1548904144,"shen":-4,"character":"阴险奸诈","p_master":(["last_learnto":50000,]),"skill_point":6,"gongxian":1,"level":20,"shen_type":0,"max_jingli":60,"con":30,"eff_qi":125,"unit":"位","max_qi":125,"registered":1,"family":(["title":"传人","privs":0,"enter_time":1548903569,"generation":14,"master_name":"封不平","family_name":"华山剑宗","master_id":"feng buping",]),"int":25,"month":1,"can_speak":1,"out_family":1,"race":"人类","dex":13,"name":"单薄花菜","jingli":60,"potential":10101,"eff_jing":120,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"mEYNOGbkM5saY","purename":"单薄花菜","jing":0,"tianfu_point":0,"surname":0,"type":"耐力型","combat_exp":84046,"max_jing":120,"neili":9,"experience":0,"max_neili":102,"chuwudai":1,"online_time":33814,"qi":125,"disable_type":" <睡梦中>","quest_count":1,"class":"swordsman","born_family":"没有","special_skill":(["trick":1,]),"last_examine":(["all_quest":0,"mud_age":34437,"experience":0,"potential":10101,"time":1548972009,"combat_exp":84046,]),"str":14,"score":4343,"learned_points":4967,"title":"华山剑宗第十四代弟子","kar":27,"img":"","shimen":(["today":1,"last":1548904411,]),"startroom":"/d/city/kedian","yuanbao":0,"water":95,"born":"扬州人氏","mud_age":34437,"food":95,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":74,"id":"j471761294","gender":"男性","last_ip":"123.169.65.148","last_save":1548927329,"attitude":"peaceful","birthday":1548871856,"combat":(["MKS":1,]),"balance":0,"age":14,])
+skills (["huashan-xinfa":50,"claw":80,"huashan-shenfa":21,"sword":80,"literate":8,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["huashan-xinfa":2167,"force":1444,"huashan-shenfa":445,"dodge":1554,"literate":56,"unarmed":1542,])
+skill_map (["force":"huashan-xinfa","dodge":"huashan-shenfa",])
+autoload ({"/clone/money/coin:83","/clone/gift/gong","/clone/gift/arrow:148","/clone/gift/bagua:299","/clone/misc/baibao","/clone/money/silver:23",})
+at_time 1548928262
+ban_say_msg ""

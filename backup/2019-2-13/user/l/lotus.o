@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1548649264,]),"last_read_news":1546430223,"per":15,"env":(["sign2":"周天丹","combatd":2,"auto_regenerate":"YES","wimpy":60,]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":55000,]),"skill_point":10,"level":30,"shen_type":0,"max_jingli":90,"con":25,"eff_qi":130,"unit":"位","max_qi":249,"family":(["title":"传人","privs":0,"enter_time":1546959733,"generation":3,"master_name":"曲灵风","family_name":"桃花岛","master_id":"qu lingfeng",]),"registered":1,"detach":(["逍遥派":1,]),"int":30,"month":2,"can_speak":1,"out_family":1,"race":"人类","name":"菡萏","dex":14,"jingli":138,"eff_jing":123,"potential":92727,"sec_id":"pw5CmzHCUKcPk","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"菡萏","jing":122,"tianfu_point":1,"surname":0,"combat_exp":136225,"type":"智慧型","max_jing":130,"neili":851,"experience":12744,"chuwudai":1,"max_neili":599,"online_time":45870,"qi":129,"class":"scholar","born_family":"没有","special_skill":(["mystery":1,]),"last_examine":(["all_quest":0,"mud_age":46391,"experience":12744,"potential":92727,"time":1548712811,"combat_exp":136225,]),"str":13,"score":2028,"learned_points":9752,"title":"桃花岛第三代传人","kar":26,"img":"","startroom":"/d/city/kedian","water":229,"last_day_sign":1548649182,"born":"扬州人氏","last_zhoutian":1546603038,"holiday":([]),"mud_age":46391,"food":229,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":68,"id":"lotus","gender":"女性","last_ip":"42.90.125.230","last_save":1548649176,"attitude":"peaceful","birthday":1546430221,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"luoying-xinfa":59,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["force":8,"dodge":3,"luoying-xinfa":2535,"unarmed":5,])
+skill_map (["force":"luoying-xinfa",])
+autoload ({"/clone/shizhe/dan_chongmai1:8","/clone/money/gold:3","/clone/money/coin:6","/clone/misc/baibao","/clone/gift/bagua:300",})
+at_time 1548649268
+ban_say_msg ""

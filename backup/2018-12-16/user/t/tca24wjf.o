@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":235157,"kaihuang_gift":1,"last_vip_set":1544911160,"level":1,]),"per":28,"last_read_news":1544886832,"env":(["sign1":"1","sign5":"get dan;exert recover;du jing with 30;exert recover;dazuo 100","wimpy":60,]),"last_sleep":1544902833,"shen":0,"character":"阴险奸诈","p_master":(["last_learnto":50000,]),"skill_point":6,"gongxian":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":(["start":1544890597,]),"con":24,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","privs":0,"enter_time":1544887717,"generation":4,"master_name":"赵志敬","family_name":"全真教","master_id":"zhao zhijing",]),"mycmds":(["fight":(["b5":"拉弓$br#射箭:shot","b10":"吃护$br#心丹:use huxin dan",]),]),"int":14,"month":1,"can_speak":1,"race":"人类","dex":31,"name":"雪城","jingli":60,"potential":15248,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"SGyRtT80ZB0w2","purename":"雪城","jing":100,"tianfu_point":0,"surname":0,"type":"敏捷型","combat_exp":54227,"max_jing":100,"neili":191,"experience":0,"chuwudai":1,"max_neili":132,"online_time":21026,"qi":100,"disable_type":" <睡梦中>","class":"taoist","born_family":"没有","special_skill":(["ghost":1,]),"die_protect":(["duration":7200,"last_dead":1544892637,]),"str":13,"score":2018,"learned_points":14260,"title":"全真教第四代传人","kar":20,"img":"","shimen":(["today":6,]),"startroom":"/d/city/wumiao","water":50,"last_day_sign":1544887132,"born":"扬州人氏","mud_age":21904,"food":50,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":62,"id":"tca24wjf","gender":"男性","last_ip":"182.135.112.184","last_save":1544910848,"attitude":"peaceful","birthday":1544886830,"combat":(["MKS":2,"last_die":"被活活冻死了","dietimes":1,]),"age":14,])
+skills (["claw":80,"quanzhen-xinfa":35,"taoism":54,"jinyan-gong":45,"sword":80,"literate":50,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"quanzhen-jian":8,"cuff":80,"finger":80,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["force":316,"taoism":728,"jinyan-gong":30,"literate":920,"quanzhen-jian":49,"quanzhen-xinfa":652,])
+skill_map (["force":"quanzhen-xinfa","dodge":"jinyan-gong",])
+autoload ({"/clone/money/coin:100","/clone/money/silver:39","/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:149","/clone/gift/gong",})
+at_time 1544911160
+ban_say_msg ""

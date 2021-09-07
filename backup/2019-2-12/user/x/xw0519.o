@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":958,"zjvip":(["times":0,"last_vip_set":1547966053,]),"qi":100,"last_read_news":1545009503,"per":21,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"shen":0,"last_examine":(["all_quest":0,"mud_age":913,"experience":0,"potential":5100,"time":1548021608,"combat_exp":5302,]),"character":"光明磊落","str":30,"score":20,"title":"普通百姓","kar":17,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":20,"water":400,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":13,"month":0,"last_day_sign":1547918902,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":913,"name":"登徒浪子","dex":17,"eff_jing":100,"potential":5100,"food":400,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"UgnyxrM6JNgNM","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"xw0519","purename":"登徒浪子","jing":100,"gender":"男性","last_ip":"49.95.198.149","surname":0,"combat_exp":5302,"type":"猛士型","last_save":1547966054,"max_jing":100,"attitude":"peaceful","birthday":1545009501,"age":14,])
+skills (["force":2,"dodge":2,"unarmed":3,])
+learned (["force":1,"dodge":0,"unarmed":0,])
+autoload ({"/clone/money/coin:439","/clone/shizhe/dan_chongmai1:1","/clone/vip/zhoutian:1",})
+at_time 1547966970
+ban_say_msg ""

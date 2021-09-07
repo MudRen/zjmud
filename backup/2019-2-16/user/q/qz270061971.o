@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545670720,"kaihuang_gift":1,]),"online_time":614,"qi":100,"per":29,"last_read_news":1545670102,"born_family":"没有","class":"swordsman","env":(["wimpy":60,]),"special_skill":(["youth":1,]),"last_examine":(["all_quest":0,"mud_age":525,"experience":0,"potential":10099,"time":1545688808,"combat_exp":50000,]),"shen":0,"character":"阴险奸诈","str":13,"score":2094,"p_master":(["last_learnto":50000,]),"title":"华山剑宗第十四代弟子","kar":21,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":13,"water":145,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"封不平","generation":14,"enter_time":1545670435,"privs":0,"family_name":"华山剑宗","master_id":"feng buping",]),"int":24,"month":0,"passwd":1134,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":525,"dex":30,"name":"骆一齐","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":145,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Wdy.SJGMxvUnI","weiwang":58,"purename":"骆一齐","id":"qz270061971","jing":100,"gender":"男性","last_ip":"27.156.21.133","surname":0,"last_save":1545670720,"type":"敏捷型","combat_exp":50000,"max_jing":100,"attitude":"peaceful","neili":0,"birthday":1545670101,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1545671640
+ban_say_msg ""

@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({"guan bing",})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1544870830,]),"online_time":988,"qi":60,"thief":2,"per":21,"last_read_news":1544869518,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["power":1,]),"die_protect":(["duration":7200,"last_dead":1544870387,]),"shen":0,"character":"狡黠多变","str":20,"score":0,"title":"普通百姓","kar":13,"img":"","shen_type":0,"startroom":"/d/city/wumiao","con":20,"water":143,"eff_qi":61,"unit":"位","max_qi":100,"registered":1,"int":20,"month":0,"last_day_sign":1544870182,"born":"秦晋人氏","can_speak":1,"race":"人类","mud_age":816,"dex":20,"name":"兔兔","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":143,"potential":5100,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"sCudCjJOycDNo","weiwang":0,"purename":"兔兔","id":"a69730004","jing":100,"gender":"男性","last_ip":"58.19.94.146","surname":0,"combat_exp":4901,"type":"均衡型","last_save":1544870584,"max_jing":100,"attitude":"peaceful","birthday":1544869516,"combat":(["last_die":"蛇毒发作身亡了","dietimes":2,]),"age":14,])
+skills (["stealing":0,"dodge":1,"unarmed":1,])
+learned (["stealing":6,"dodge":0,"unarmed":0,])
+autoload ({})
+at_time 1544871750
+ban_say_msg ""

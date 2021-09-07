@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":258847,"last_vip_set":1544871725,"kaihuang_gift":1,"level":1,]),"online_time":504,"qi":100,"per":19,"last_read_news":1544871201,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["mystery":1,]),"shen":0,"character":"阴险奸诈","str":13,"score":2001,"p_master":(["last_learnto":50000,]),"title":"普通百姓","skill_point":3,"kar":18,"img":"","level":10,"shen_type":0,"startroom":"/d/city3/kedian","max_jingli":30,"con":25,"water":230,"eff_qi":100,"unit":"位","max_qi":112,"registered":1,"int":13,"month":0,"can_speak":1,"born":"巴蜀人氏","last_day_sign":1544871476,"race":"人类","mud_age":402,"dex":30,"name":"萧逍","jingli":30,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"RdTxkbpjWuFt.","weiwang":51,"purename":"萧逍","id":"z1604150057","jing":100,"gender":"男性","last_ip":"119.103.219.204","tianfu_point":0,"surname":0,"last_save":1544871725,"type":"敏捷型","combat_exp":55000,"max_jing":110,"attitude":"peaceful","neili":50,"birthday":1544871199,"max_neili":50,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1544872642
+ban_say_msg ""

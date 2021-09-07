@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545902446,]),"online_time":1030,"qi":100,"thief":0,"per":28,"last_read_news":1545814148,"born_family":"欧阳世家","env":(["wimpy":60,]),"special_skill":(["hatred":1,]),"last_examine":(["all_quest":0,"mud_age":664,"experience":0,"potential":5099,"time":1545948006,"combat_exp":5008,]),"shen":-3,"die_protect":(["duration":7200,"last_dead":1545902231,]),"character":"光明磊落","str":30,"score":0,"title":"普通百姓","kar":16,"img":"","shen_type":0,"startroom":"/d/city/wumiao","con":24,"water":150,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":13,"month":0,"can_speak":1,"born":"西域人氏","last_day_sign":1545902298,"race":"人类","mud_age":664,"dex":13,"name":"欧阳王者","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":150,"potential":5099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"WL.7ztSKzX2JU","weiwang":0,"purename":"王者","id":"fml123","jing":100,"gender":"男性","last_ip":"115.53.140.58","surname":"欧阳","last_save":1545902247,"type":"猛士型","combat_exp":5008,"max_jing":100,"attitude":"peaceful","birthday":1545814146,"combat":(["MKS":1,"last_die":"被仕卫杀死了","dietimes":1,]),"age":14,])
+skills (["stealing":0,"dodge":1,"parry":1,])
+learned (["stealing":2,"dodge":1,"parry":4,])
+autoload ({})
+at_time 1545903370
+ban_say_msg ""

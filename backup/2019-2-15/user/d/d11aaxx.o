@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":324,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1550124625,]),"qi":100,"last_read_news":1550124302,"per":14,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"shen":0,"character":"狡黠多变","str":13,"score":2034,"p_master":(["last_learnto":50000,]),"title":"普通百姓","kar":29,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":24,"water":178,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":30,"month":0,"last_day_sign":1550124455,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":225,"name":"乖妖","dex":13,"eff_jing":100,"potential":15099,"food":178,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"jnDcJvmZsPbEQ","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":71,"id":"d11aaxx","purename":"乖妖","jing":100,"gender":"男性","last_ip":"139.207.165.47","surname":0,"combat_exp":55000,"type":"智慧型","last_save":1550124603,"max_jing":100,"attitude":"peaceful","birthday":1550124301,"chuwudai":1,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+autoload ({"/clone/misc/baibao","/clone/shizhe/dan_chongmai1:1","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1550124632
+ban_say_msg ""

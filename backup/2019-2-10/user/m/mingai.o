@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1549625329,"kaihuang_gift":1,]),"online_time":166,"qi":70,"per":30,"last_read_news":1549432823,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"last_examine":(["all_quest":0,"mud_age":140,"experience":0,"potential":20099,"time":1549663213,"combat_exp":60000,]),"shen":0,"character":"阴险奸诈","str":13,"score":2057,"p_master":(["last_learnto":50000,]),"title":"普通百姓","kar":12,"img":"","yuanbao":0,"shen_type":0,"startroom":"/d/city/kedian","con":13,"water":229,"eff_qi":70,"unit":"位","max_qi":70,"registered":1,"int":24,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1549625323,"race":"人类","mud_age":140,"dex":30,"name":"剑青峰","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":229,"potential":20099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"rsQdXJPQQM1.o","weiwang":54,"purename":"剑青峰","id":"mingai","jing":89,"gender":"男性","last_ip":"110.51.137.225","surname":0,"last_save":1549625319,"type":"敏捷型","combat_exp":60000,"max_jing":100,"attitude":"peaceful","birthday":1549432821,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/shizhe/dan_chongmai1:2","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1549625338
+ban_say_msg ""

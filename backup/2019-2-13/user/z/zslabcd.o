@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545281507,"kaihuang_gift":1,"level":1,]),"online_time":2838,"qi":100,"per":13,"last_read_news":1544933004,"born_family":"没有","class":"bonze","env":(["wimpy":60,]),"special_skill":(["hatred":1,]),"last_examine":(["all_quest":0,"mud_age":2850,"experience":0,"potential":20099,"time":1545343204,"combat_exp":54709,]),"shen":0,"die_protect":(["duration":7200,"last_dead":1545280320,]),"character":"光明磊落","str":30,"shen_record":0,"score":1204,"p_master":(["last_learnto":50000,]),"title":"少林派第四十一代传人","kar":24,"img":"","shen_type":0,"startroom":"/d/city/wumiao","con":24,"water":309,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"清法比丘","generation":41,"enter_time":1544933161,"privs":0,"family_name":"少林派","master_id":"qingfa biqiu",]),"mycmds":(["fight":(["b2":"吃护$br#心丹:use huxin dan","b1":"拉弓$br#射箭:shot",]),]),"int":13,"month":0,"last_day_sign":1545280270,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":2850,"dex":13,"name":"虚谁","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":309,"potential":20099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"fx9ZzkLiw8ar.","weiwang":46,"purename":"谁和谁","id":"zslabcd","jing":100,"gender":"男性","last_ip":"218.200.207.76","surname":0,"last_save":1545281485,"type":"猛士型","combat_exp":54709,"max_jing":100,"attitude":"peaceful","birthday":1544933002,"combat":(["MKS":5,"last_die":"被腹蛇杀死了","dietimes":5,]),"chuwudai":1,"age":14,"K_record":0,])
+skills (["claw":79,"force":79,"club":79,"hand":79,"strike":79,"cuff":79,"finger":79,"staff":79,"dodge":79,"sword":79,"hammer":79,"parry":79,"unarmed":79,"blade":79,"whip":79,])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:145","/clone/gift/bagua:300","/clone/misc/baibao","/clone/suit/new/new_boots",})
+at_time 1545281510
+ban_say_msg ""

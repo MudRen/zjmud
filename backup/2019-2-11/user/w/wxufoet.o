@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+ghost 1
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546171289,"kaihuang_gift":1,]),"per":30,"last_read_news":1546169645,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","p_master":(["last_learnto":55289,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"con":24,"eff_qi":2,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"小龙女","generation":4,"enter_time":1546170338,"privs":0,"family_name":"古墓派","master_id":"long nv",]),"mycmds":(["fight":(["b2":"拉弓$br#射箭:shot","b1":"玉女$br#真气:exert force.powerup",]),]),"int":14,"month":0,"can_speak":1,"out_family":1,"race":"人类","dex":14,"name":"王若晨","jingli":60,"potential":15099,"eff_jing":2,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"KTsz.ieLp25zw","purename":"王若晨","jing":1,"tianfu_point":0,"surname":0,"type":"猛士型","combat_exp":53101,"max_jing":100,"neili":100,"chuwudai":1,"max_neili":100,"online_time":1620,"qi":1,"born_family":"没有","special_skill":(["trick":1,]),"last_examine":(["all_quest":0,"mud_age":1581,"experience":0,"potential":15099,"time":1546207204,"combat_exp":53101,]),"die_protect":(["duration":7200,"last_dead":1546171260,]),"str":30,"score":1688,"learned_points":272,"title":"古墓派第四代传人","kar":14,"img":"","startroom":"/d/city/wumiao","water":65,"born":"扬州人氏","last_day_sign":1546170128,"mud_age":1581,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":65,"weiwang":62,"id":"wxufoet","gender":"男性","last_ip":"36.161.85.31","last_save":1546171112,"attitude":"peaceful","birthday":1546169643,"balance":429,"combat":(["MKS":3,"last_die":"莫名其妙地死了","dietimes":2,]),"age":14,])
+skills (["claw":80,"yunv-xinfa":11,"drawing":16,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":0,"dodge":0,"yunv-xinfa":0,"unarmed":4,"drawing":13,])
+skill_map (["force":"yunv-xinfa",])
+autoload ({"/clone/money/coin:25","/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:149","/clone/gift/gong",})
+at_time 1546171294
+ban_say_msg ""

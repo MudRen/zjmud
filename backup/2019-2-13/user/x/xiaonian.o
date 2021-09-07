@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":620,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1547707162,]),"qi":109,"last_read_news":1547617284,"per":24,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["power":1,]),"last_examine":(["all_quest":0,"mud_age":494,"experience":0,"potential":20099,"time":1547762402,"combat_exp":60000,]),"shen":0,"character":"光明磊落","str":26,"score":2075,"p_master":(["last_learnto":50000,]),"title":"普通百姓","skill_point":6,"kar":22,"img":"","level":20,"startroom":"/d/city/kedian","shen_type":0,"max_jingli":60,"con":21,"water":360,"eff_qi":110,"unit":"位","max_qi":125,"registered":1,"int":15,"month":0,"last_day_sign":1547679887,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":494,"jingli":60,"name":"笑年","dex":20,"eff_jing":108,"potential":20099,"food":360,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"gCNLWAL9KTgUc","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":52,"id":"xiaonian","purename":"笑年","jing":57,"gender":"男性","tianfu_point":0,"last_ip":"223.104.64.195","surname":0,"combat_exp":60000,"last_save":1547707162,"max_jing":120,"attitude":"peaceful","neili":100,"birthday":1547617283,"max_neili":100,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+autoload ({"/clone/shizhe/dan_chongmai1:2","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1547708078
+ban_say_msg ""

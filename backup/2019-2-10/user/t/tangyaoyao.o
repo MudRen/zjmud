@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({"muyang ren",})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1547292826,"kaihuang_gift":1,]),"per":23,"last_read_news":1547267342,"env":(["wimpy":20,]),"last_sleep":1547269703,"shen":0,"character":"阴险奸诈","p_master":(["last_learnto":50000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":68,"con":13,"eff_qi":126,"unit":"位","max_qi":126,"registered":1,"family":(["title":"传人","master_name":"摘星子","generation":3,"enter_time":1547267796,"privs":0,"family_name":"星宿派","master_id":"zhaixing zi",]),"mycmds":(["fight":(["b5":"弹射$br#火焰:perform parry.huoyan","b4":"弹射$br#火球:perform parry.huoqiu","b3":"火浪掌:perform parry.huolang","b2":"弹射$br#碧焰:perform parry.biyan","b1":"拉弓$br#射箭:shot","b8":"内力$br#回气:exert recover","b7":"释放$br#怒气:burning","b6":"毒掌$br#抽髓:perform parry.throw",]),]),"int":24,"month":0,"can_speak":1,"race":"人类","dex":30,"name":"唐曲","jingli":76,"potential":15099,"eff_jing":122,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Lu1N619YAWhgk","purename":"唐曲","jing":122,"tianfu_point":0,"surname":0,"type":"敏捷型","combat_exp":55614,"max_jing":122,"neili":41,"chuwudai":1,"max_neili":113,"online_time":13676,"qi":126,"born_family":"没有","class":"fighter","special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":14058,"experience":0,"potential":15099,"time":1547330403,"combat_exp":55614,]),"str":15,"score":2101,"learned_points":12282,"title":"星宿派第三代传人","kar":13,"img":"","startroom":"/d/city/kedian","water":66,"born":"扬州人氏","last_day_sign":1547267555,"mud_age":14058,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":66,"weiwang":79,"id":"tangyaoyao","gender":"男性","last_ip":"124.160.215.134","last_save":1547292527,"attitude":"peaceful","birthday":1547267341,"combat":(["MKS":8,]),"balance":26,"age":14,])
+skills (["claw":80,"zhaixinggong":13,"sword":80,"literate":7,"blade":80,"force":80,"club":80,"guixi-gong":59,"hand":80,"strike":80,"chousui-zhang":47,"cuff":80,"poison":27,"finger":80,"staff":80,"medical":8,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":155,"guixi-gong":1599,"zhaixinggong":158,"chousui-zhang":1906,"poison":419,"medical":8,"dodge":159,"literate":49,"unarmed":12,])
+skill_map (["force":"guixi-gong","dodge":"zhaixinggong","parry":"chousui-zhang","strike":"chousui-zhang",])
+skill_prepare ([])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:139","/clone/gift/gong","/clone/misc/baibao","/d/xingxiu/obj/lianxindan:100","/clone/suit/new/new_boots","/clone/money/silver:5","/clone/money/coin:150",})
+at_time 1547293740
+ban_say_msg ""

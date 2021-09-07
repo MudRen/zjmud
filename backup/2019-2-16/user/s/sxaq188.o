@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["hunger":7,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1550226177,"kaihuang_gift":1,]),"online_time":2572,"qi":20,"per":24,"last_read_news":1550223528,"class":"scholar","born_family":"没有","env":(["keep_idle":1,"wimpy":60,]),"special_skill":(["lucky":1,]),"shen":0,"character":"狡黠多变","str":13,"score":2077,"learned_points":49,"p_master":(["last_learnto":63978,]),"title":"桃花岛第三代传人","chunjie_gift_times":1,"kar":25,"img":"","yuanbao":0,"shen_type":0,"startroom":"/d/city/kedian","con":24,"water":0,"eff_qi":100,"unit":"位","max_qi":100,"family":(["title":"传人","privs":0,"enter_time":1550223786,"generation":3,"master_name":"陆乘风","family_name":"桃花岛","master_id":"lu chengfeng",]),"registered":1,"int":30,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1550223582,"race":"人类","mud_age":2582,"holiday":(["春节1":(["day15":1,]),]),"dex":13,"name":"万骨枯","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":0,"potential":21242,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Lq5jZjVkeKxzU","weiwang":50,"purename":"万骨枯","id":"sxaq188","jing":100,"gender":"男性","last_ip":"223.96.237.114","surname":0,"last_save":1550226092,"type":"智慧型","combat_exp":63978,"max_jing":100,"attitude":"peaceful","neili":133,"experience":9123,"birthday":1550223526,"max_neili":67,"chuwudai":1,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"luoying-xinfa":18,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+learned (["luoying-xinfa":297,])
+skill_map (["force":"luoying-xinfa",])
+autoload ({"/clone/shizhe/dan_chongmai1:1","/clone/misc/baibao","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1550227096
+ban_say_msg ""

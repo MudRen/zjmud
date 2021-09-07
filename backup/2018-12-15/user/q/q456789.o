@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["lingzhi_num":1,"yuanbao_used":14630,"times":2558677,"last_vip_set":1544824566,"kaihuang_gift":1,"level":1,]),"last_read_news":1544744478,"per":25,"env":(["combatd":5,"wimpy":60,"combatd2":1,]),"shen":0,"character":"光明磊落","p_master":(["last_learnto":55143,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":872,"lilian":(["start":1544792713,]),"con":29,"eff_qi":325,"unit":"位","max_qi":325,"registered":1,"family":(["title":"传人","master_name":"左全","generation":20,"enter_time":1544790142,"privs":0,"family_name":"丐帮","master_id":"zuo quan",]),"mycmds":(["fight":(["b10":"吃护$br#心丹:use huxin dan","b1":"拉弓$br#射箭:shot",]),]),"int":17,"month":1,"can_speak":1,"day_item":(["lingzhi":(["last_time":1544792829,"times":1,]),]),"race":"人类","name":"唐三","dex":18,"jingli":872,"eff_jing":390,"potential":21521,"sec_id":"BfPPj2G0qhxKQ","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"唐三","jing":390,"tianfu_point":0,"surname":0,"combat_exp":67232,"type":"猛士型","max_jing":390,"magic_points":16708,"neili":1004,"chuwudai":1,"max_neili":1004,"online_time":31712,"qi":325,"born_family":"没有","class":"beggar","special_skill":(["lucky":1,]),"dan":(["huichun":4,]),"str":34,"score":2092,"learned_points":17596,"title":"丐帮第二十代传人","kar":16,"img":"001","startroom":"/d/city/kedian","yuanbao":3370,"water":323,"gift":(["jiuzhuan":11,"unknowdan":4,"xiandan":4,"xisuidan":4,"shenliwan":4,]),"last_day_sign":1544756737,"born":"扬州人氏","mud_age":33723,"food":323,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":54,"id":"q456789","gender":"男性","last_ip":"219.153.160.66","last_save":1544824263,"attitude":"peaceful","birthday":1544744476,"balance":2258,"combat":(["MKS":1,]),"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"jiaohua-neigong":75,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":126,"jiaohua-neigong":1205,"dodge":1,"unarmed":4,])
+skill_map (["force":"jiaohua-neigong",])
+autoload ({"/clone/money/cash:27","/data/item/q/q456789-yifu:worn","/clone/gift/gong","/clone/money/coin:13","/clone/gift/arrow:145","/clone/gift/bagua:300","/clone/shizhe/huxindan9:53","/clone/misc/baibao","/clone/money/gold:5","/data/item/q/q456789-hujia:worn","/clone/money/silver:2",})
+at_time 1544816188
+ban_say_msg ""

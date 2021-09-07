@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1548477238,]),"online_time":42,"qi":100,"per":10,"last_read_news":1548477197,"env":(["wimpy":60,]),"last_examine":(["all_quest":0,"mud_age":41,"experience":0,"potential":99,"time":1548540011,"combat_exp":0,]),"shen":0,"str":10,"title":"普通百姓","kar":29,"img":"","shen_type":0,"startroom":"/d/register/entry","con":10,"water":196,"eff_qi":100,"unit":"位","max_qi":100,"int":10,"month":0,"can_speak":1,"race":"人类","mud_age":41,"dex":10,"name":"克鲁苏","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":196,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"QUHwsuzpx7rLo","purename":"克鲁苏","id":"d646473464","jing":100,"gender":"男性","last_ip":"39.76.254.52","surname":0,"last_save":1548477197,"max_jing":100,"attitude":"peaceful","birthday":1548477195,"age":14,])
+autoload ({})
+at_time 1548477240
+ban_say_msg ""

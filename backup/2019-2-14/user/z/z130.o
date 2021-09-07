@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546695788,]),"online_time":558,"qi":100,"per":11,"last_read_news":1545481762,"born_family":"Ã»ÓĞ","class":"beggar","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":546,"experience":0,"potential":5100,"time":1546725604,"combat_exp":5000,]),"shen":0,"nickname":"¾ıÁÙÌìÏÂ[2;37;0m","die_protect":(["duration":7200,"last_dead":1545482088,]),"character":"¹âÃ÷ÀÚÂä","str":30,"score":0,"title":"Ø¤°ïµÚ¶şÊ®´ú´«ÈË","kar":25,"img":"","shen_type":0,"startroom":"/d/city/wumiao","con":24,"water":393,"eff_qi":100,"unit":"Î»","max_qi":100,"registered":1,"family":(["title":"´«ÈË","master_name":"×óÈ«","generation":20,"enter_time":1546695780,"privs":0,"family_name":"Ø¤°ï","master_id":"zuo quan",]),"int":13,"month":0,"can_speak":1,"born":"ÑïÖİÈËÊÏ","last_day_sign":1546695601,"race":"ÈËÀà","mud_age":546,"dex":13,"name":"Ò»Äî»¨¿ª","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":393,"potential":5100,"eff_jing":100,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"sec_id":"LJ5V7VGZycQTg","weiwang":0,"purename":"Ò»Äî»¨¿ª","id":"z130","jing":100,"gender":"Å®ĞÔ","last_ip":"1.204.30.49","surname":0,"last_save":1546695563,"type":"ÃÍÊ¿ĞÍ","combat_exp":5000,"max_jing":100,"attitude":"peaceful","birthday":1545481760,"combat":(["last_die":"±»´¨µºÒİ¿³ËÀÁË","dietimes":3,]),"age":14,])
+autoload ({})
+at_time 1546696702
+ban_say_msg ""

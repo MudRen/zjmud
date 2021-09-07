@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1549625360,"kaihuang_gift":1,]),"per":25,"last_read_news":1546055436,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":50000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":268,"con":25,"eff_qi":473,"unit":"位","max_qi":491,"registered":1,"family":(["title":"传人","master_name":"封不平","generation":14,"enter_time":1546055603,"privs":0,"family_name":"华山剑宗","master_id":"feng buping",]),"int":31,"month":9,"can_speak":1,"race":"人类","dex":13,"name":"梦洛","jingli":308,"potential":46099,"eff_jing":120,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"ob4YsZZDm4/BA","purename":"梦洛","jing":120,"tianfu_point":0,"surname":0,"type":"智慧型","combat_exp":85252,"max_jing":189,"neili":1565,"max_neili":1565,"online_time":202570,"qi":473,"born_family":"没有","class":"swordsman","special_skill":(["mystery":1,]),"last_examine":(["all_quest":0,"mud_age":205607,"experience":0,"potential":46099,"time":1549663213,"combat_exp":85252,]),"str":14,"score":2013,"learned_points":3266,"title":"华山剑宗第十四代弟子","kar":11,"img":"","yuanbao":0,"startroom":"/d/city/kedian","water":240,"gift":(["lighting":1,]),"born":"扬州人氏","last_day_sign":1549625364,"mud_age":205607,"holiday":([]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":240,"weiwang":70,"id":"shui123","gender":"女性","last_ip":"110.51.137.225","last_save":1549625360,"attitude":"peaceful","birthday":1546055434,"age":14,])
+skills (["claw":80,"huashan-xinfa":79,"sword":80,"literate":6,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["huashan-xinfa":4015,"literate":14,])
+skill_map (["force":"huashan-xinfa",])
+autoload ({"/clone/shizhe/dan_chongmai1:6","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/gift/gift_laba:1",})
+at_time 1549625366
+ban_say_msg ""

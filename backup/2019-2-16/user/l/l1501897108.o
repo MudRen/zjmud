@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1548289507,"kaihuang_gift":1,]),"per":19,"last_read_news":1546226866,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":50000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"con":21,"eff_qi":95,"unit":"位","max_qi":125,"registered":1,"family":(["title":"传人","master_name":"胡斐","generation":8,"enter_time":1546227227,"privs":0,"family_name":"关外胡家","master_id":"hu fei",]),"mycmds":(["fight":(["b2":"冷月$br#刺骨:exert force.freeze","b1":"冷月$br#战气:exert force.powerup",]),]),"int":17,"month":0,"can_speak":1,"race":"人类","dex":20,"name":"胡青青","jingli":60,"potential":20099,"eff_jing":120,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Cy.F6Nhkj7etk","purename":"青青","jing":120,"tianfu_point":0,"surname":"胡","combat_exp":60039,"max_jing":120,"neili":182,"max_neili":182,"chuwudai":1,"online_time":1692,"qi":95,"born_family":"关外胡家","special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":1445,"experience":0,"potential":20099,"time":1548367211,"combat_exp":60039,]),"str":24,"score":2094,"learned_points":718,"title":"关外胡家第八代传人","kar":24,"img":"","yuanbao":0,"startroom":"/d/guanwai/xiaowu","water":309,"born":"关外人氏","last_day_sign":1548288341,"mud_age":1445,"holiday":(["腊八":(["day24":1,]),]),"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":309,"weiwang":69,"id":"l1501897108","gender":"女性","last_ip":"223.104.65.210","last_save":1548289403,"attitude":"peaceful","birthday":1546226865,"age":14,])
+skills (["claw":80,"sword":80,"lengyue-shengong":25,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":1,"lengyue-shengong":510,"dodge":3,"unarmed":2,])
+skill_map (["force":"lengyue-shengong",])
+autoload ({"/clone/shizhe/dan_chongmai1:1","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/misc/baibao","/clone/money/coin:58",})
+at_time 1548289512
+ban_say_msg ""

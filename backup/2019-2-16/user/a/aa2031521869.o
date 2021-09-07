@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1549326153,]),"online_time":168,"qi":100,"per":17,"last_read_news":1549325984,"born_family":"没有","class":"swordsman","env":(["wimpy":60,]),"special_skill":(["trick":1,]),"last_examine":(["all_quest":0,"mud_age":158,"experience":0,"potential":5099,"time":1549404013,"combat_exp":5010,]),"shen":0,"character":"阴险奸诈","str":13,"score":1,"learned_points":12,"title":"华山派第十四代传人","kar":25,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":13,"water":186,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"岳不群","generation":14,"enter_time":1549326119,"privs":0,"family_name":"华山派","master_id":"yue buqun",]),"int":24,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1549326015,"race":"人类","mud_age":158,"dex":30,"name":"卢本伟","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":186,"potential":5099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"cPsVN9ogdgqtY","purename":"卢本伟","id":"aa2031521869","jing":39,"gender":"男性","last_ip":"111.77.208.51","surname":0,"last_save":1549325984,"type":"敏捷型","combat_exp":5010,"max_jing":100,"attitude":"peaceful","birthday":1549325982,"age":14,])
+skills (["force":1,"literate":5,])
+learned (["force":0,"literate":31,])
+autoload ({"/clone/money/coin:15","/clone/shizhe/dan_chongmai1:1",})
+at_time 1549326154
+ban_say_msg ""

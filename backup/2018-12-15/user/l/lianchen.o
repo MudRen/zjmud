@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":239745,"last_vip_set":1544820073,"kaihuang_gift":1,"level":1,]),"online_time":142,"qi":100,"per":24,"last_read_news":1544800584,"born_family":"没有","class":"swordsman","env":(["wimpy":60,]),"special_skill":(["power":1,]),"shen":0,"character":"狡黠多变","str":13,"score":2020,"p_master":(["last_learnto":50000,]),"title":"华山剑宗第十四代弟子","kar":23,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":227,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"封不平","generation":14,"enter_time":1544800690,"privs":0,"family_name":"华山剑宗","master_id":"feng buping",]),"int":30,"month":0,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":114,"dex":13,"name":"楚易","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":227,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"/b7wohmJ7y2Pw","weiwang":79,"purename":"楚易","id":"lianchen","jing":100,"gender":"男性","last_ip":"120.34.245.89","surname":0,"last_save":1544820042,"type":"智慧型","combat_exp":50000,"max_jing":100,"attitude":"peaceful","birthday":1544800582,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1544820074
+ban_say_msg ""

@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546175930,"kaihuang_gift":1,]),"online_time":130,"qi":100,"per":16,"last_read_news":1545997508,"born_family":"段氏皇族","env":(["wimpy":60,]),"special_skill":(["mystery":1,]),"last_examine":(["all_quest":0,"mud_age":130,"experience":0,"potential":20099,"time":1546207204,"combat_exp":60000,]),"shen":0,"character":"狡黠多变","str":13,"score":2024,"p_master":(["last_learnto":55000,]),"title":"普通百姓","kar":11,"img":"","shen_type":0,"startroom":"/d/dali/wangfugate","con":24,"water":229,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"can_speak":1,"born":"大理人氏","last_day_sign":1546175919,"race":"人类","mud_age":130,"dex":13,"name":"段小杰","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":229,"potential":20099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"lVWIXtS.p3lns","weiwang":73,"purename":"小杰","id":"q2468","jing":68,"gender":"男性","last_ip":"223.104.25.249","surname":"段","last_save":1546175900,"type":"智慧型","combat_exp":60000,"max_jing":100,"attitude":"peaceful","birthday":1545997506,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1546176846
+ban_say_msg ""

@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":2858,"zjvip":(["all_pay":0,"times":19888789,"kaihuang_gift":1,"last_vip_set":1544907007,"level":1,]),"qi":100,"last_read_news":1544904105,"per":30,"class":"beggar","born_family":"没有","env":(["sign1":"1","sign5":"dazuo 100;exert recover","wimpy":60,]),"special_skill":(["hatred":1,]),"shen":0,"character":"心狠手辣","str":30,"score":2040,"learned_points":1267,"p_master":(["last_learnto":50000,]),"title":"丐帮第二十代传人","jiali":52,"skill_point":6,"kar":18,"img":"","level":20,"startroom":"/d/city/kedian","shen_type":0,"yuanbao":0,"max_jingli":60,"lilian":(["start":1544904165,]),"con":24,"water":324,"eff_qi":100,"unit":"位","max_qi":100,"family":(["title":"传人","privs":0,"enter_time":1544904228,"generation":20,"master_name":"左全","family_name":"丐帮","master_id":"zuo quan",]),"registered":1,"mycmds":(["fight":(["b1":"释放$br#怒气:burning",]),]),"int":13,"month":0,"last_day_sign":1544904185,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":2902,"jingli":60,"name":"凉月","dex":13,"eff_jing":100,"potential":15099,"food":324,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"Zj/cMHkN4jIds","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":76,"id":"sun0011","purename":"凉月","jing":100,"gender":"男性","tianfu_point":2,"last_ip":"61.158.149.248","surname":0,"combat_exp":55000,"type":"猛士型","last_save":1544906845,"max_jing":100,"attitude":"peaceful","neili":173,"birthday":1544904103,"max_neili":157,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"jiaohua-neigong":31,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+learned (["force":89,"jiaohua-neigong":755,])
+skill_map (["force":"jiaohua-neigong",])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1544907006
+ban_say_msg ""

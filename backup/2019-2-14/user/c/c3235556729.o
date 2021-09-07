@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1547079537,]),"online_time":1964,"qi":100,"per":18,"last_read_news":1547046809,"born_family":"¹ØÍâºú¼Ò","env":(["wimpy":60,]),"special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":1971,"experience":0,"potential":5145,"time":1547157606,"combat_exp":5093,]),"shen":0,"character":"ĞÄºİÊÖÀ±","str":20,"learned_points":162,"title":"¹ØÍâºú¼ÒµÚ°Ë´ú´«ÈË","skill_point":1,"kar":28,"img":"","level":5,"yuanbao":0,"shen_type":0,"startroom":"/d/guanwai/xiaowu","max_jingli":15,"con":20,"water":218,"eff_qi":100,"unit":"Î»","max_qi":100,"registered":1,"family":(["title":"´«ÈË","master_name":"ºúì³","generation":8,"enter_time":1547046850,"privs":0,"family_name":"¹ØÍâºú¼Ò","master_id":"hu fei",]),"int":20,"month":0,"can_speak":1,"born":"¹ØÍâÈËÊÏ","last_day_sign":1547078517,"race":"ÈËÀà","mud_age":1971,"dex":20,"name":"ºúæÎæ½","jingli":15,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":218,"potential":5145,"eff_jing":100,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"sec_id":"InlDdYDkOnM1.","purename":"æÎæ½","id":"c3235556729","jing":56,"gender":"ÄĞĞÔ","last_ip":"101.206.170.107","sex":(["times":3,"[1;37m°×ÒÂ[2;37;0m":3,"first":"[1;37m°×ÒÂ[2;37;0m",]),"surname":"ºú","last_save":1547079319,"type":"¾ùºâĞÍ","combat_exp":5093,"max_jing":100,"attitude":"peaceful","neili":25,"birthday":1547046807,"max_neili":25,"age":14,])
+skills (["force":15,])
+learned (["force":215,])
+autoload ({"/clone/money/coin:30","/clone/shizhe/dan_chongmai1:1",})
+at_time 1547079540
+ban_say_msg ""

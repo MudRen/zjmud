@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({"shi song",})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1549070575,"kaihuang_gift":1,]),"per":10,"last_read_news":1548933102,"env":(["wimpy":60,]),"shen":0,"character":"阴险奸诈","p_master":(["last_learnto":50000,]),"gongxian":7,"shen_type":0,"con":24,"eff_qi":48,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"赵志敬","generation":4,"enter_time":1549070487,"privs":0,"family_name":"全真教","master_id":"zhao zhijing",]),"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":13,"month":0,"can_speak":1,"out_family":1,"race":"人类","dex":30,"name":"余下","potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"jiACGA0qIy8to","purename":"余下","jing":100,"surname":0,"combat_exp":54645,"max_jing":100,"neili":30,"experience":0,"max_neili":30,"chuwudai":1,"online_time":5140,"qi":47,"born_family":"没有","class":"taoist","special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":5467,"experience":0,"potential":15099,"time":1549144811,"combat_exp":54645,]),"die_protect":(["duration":7200,"last_dead":1549069350,]),"str":13,"score":2036,"learned_points":206,"title":"全真教第四代传人","kar":13,"img":"","shimen":(["today":7,]),"startroom":"/d/city/wumiao","water":148,"born":"扬州人氏","last_day_sign":1549069408,"mud_age":5467,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":148,"weiwang":72,"id":"y2543220830","gender":"男性","last_ip":"117.136.60.251","last_save":1549070378,"attitude":"peaceful","birthday":1548933100,"combat":(["last_die":"被克里斯特·拉斯特曼刺死了","dietimes":1,]),"age":14,])
+skills (["claw":80,"quanzhen-xinfa":16,"taoism":1,"sword":80,"literate":11,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":4,"quanzhen-xinfa":32,"taoism":4,"dodge":3,"literate":53,"unarmed":3,])
+skill_map (["force":"quanzhen-xinfa",])
+autoload ({"/clone/money/silver:14","/clone/money/coin:94","/clone/misc/baibao","/clone/gift/gong","/clone/gift/arrow:149","/clone/gift/bagua:300",})
+at_time 1549070582
+ban_say_msg ""

@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":208013,"last_vip_set":1544889048,"kaihuang_gift":1,"level":1,]),"per":23,"last_read_news":1544837830,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":55000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":(["start":1544837947,]),"con":24,"eff_qi":107,"unit":"位","max_qi":125,"registered":1,"family":(["title":"传人","master_name":"清法比丘","generation":41,"enter_time":1544837982,"privs":0,"family_name":"少林派","master_id":"qingfa biqiu",]),"int":13,"month":0,"can_speak":1,"race":"人类","dex":15,"name":"黑暗","jingli":60,"potential":15099,"eff_jing":107,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"sdU1eWlE/8ZS2","purename":"黑暗","jing":106,"tianfu_point":0,"surname":0,"type":"猛士型","combat_exp":55000,"max_jing":120,"neili":100,"chuwudai":1,"max_neili":100,"online_time":268,"qi":106,"born_family":"没有","special_skill":(["hatred":1,]),"str":30,"score":2067,"learned_points":78,"title":"少林派第四十一代传人","kar":21,"img":"","startroom":"/d/city/kedian","water":393,"born":"扬州人氏","last_day_sign":1544837865,"mud_age":245,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":393,"weiwang":75,"id":"qwq1367530","gender":"男性","last_ip":"223.96.238.145","last_save":1544888976,"attitude":"peaceful","birthday":1544837828,"age":14,])
+skills (["claw":80,"shaolin-xinfa":11,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["shaolin-xinfa":36,])
+skill_map (["force":"shaolin-xinfa",])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/misc/baibao","/clone/shizhe/huxindan9:98",})
+at_time 1544889050
+ban_say_msg ""

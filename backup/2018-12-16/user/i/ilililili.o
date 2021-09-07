@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["db_exp":320,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["yuanbao_used":13710,"times":2845814,"last_vip_set":1544891502,"kaihuang_gift":1,"level":1,]),"per":26,"last_read_news":1544885569,"env":(["wimpy":60,"sign5":"xue lu luoying-xinfa 9999;eat xuqi pan",]),"shen":0,"character":"阴险奸诈","p_master":(["last_learnto":55000,]),"shen_type":0,"max_jingli":1522,"con":18,"eff_qi":219,"unit":"位","max_qi":297,"registered":1,"family":(["title":"传人","master_name":"陆乘风","generation":3,"enter_time":1544886397,"privs":0,"family_name":"桃花岛","master_id":"lu chengfeng",]),"int":29,"month":0,"map":(["city":({"中央广场","东大街",}),"taohua":({"前院","桃花山庄正门","试剑亭","桃林边","迷阵入口","桃花迷阵","海滩",}),]),"can_speak":1,"out_family":1,"race":"人类","dex":35,"name":"胡落羽","jingli":1522,"potential":55099,"eff_jing":607,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"AI75d2CC74k0c","purename":"落羽","jing":607,"surname":"胡","combat_exp":86330,"max_jing":607,"magic_points":31149,"neili":1300,"max_neili":1300,"online_time":2562,"qi":218,"born_family":"关外胡家","class":"scholar","special_skill":(["ghost":1,]),"str":18,"score":2124,"learned_points":20761,"title":"桃花岛第三代传人","kar":11,"img":"","startroom":"/d/guanwai/xiaowu","yuanbao":40284,"water":271,"gift":(["jiuzhuan":22,"unknowdan":5,"xiandan":5,"xisuidan":5,"shenliwan":5,]),"born":"关外人氏","last_day_sign":1544885647,"mud_age":2471,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":271,"weiwang":51,"id":"ilililili","gender":"男性","last_ip":"183.225.216.41","last_save":1544891410,"attitude":"peaceful","birthday":1544885567,"balance":9900000,"age":14,])
+skills (["claw":80,"drawing":43,"sword":80,"literate":1,"blade":80,"force":82,"club":80,"hand":80,"strike":80,"luoying-xinfa":82,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":6,"dodge":18,"luoying-xinfa":713,"literate":0,"drawing":830,"unarmed":6,])
+skill_map (["force":"luoying-xinfa",])
+autoload ({"/clone/money/gold:3","/clone/vip/book_tianfu:7","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/vip/xuqi:1","/clone/money/silver:99","/clone/vip/lingzhi2","/clone/vip/lingzhi2","/clone/vip/lingzhi2","/clone/vip/lingzhi2","/clone/vip/lingzhi2","/clone/money/coin:434",})
+at_time 1544891510
+ban_say_msg ""

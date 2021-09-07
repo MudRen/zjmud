@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":570,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1544806728,]),"qi":100,"last_read_news":1544806150,"per":20,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":10,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":24,"water":156,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"last_day_sign":1544806631,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":126,"name":"混世魔王","dex":13,"eff_jing":100,"potential":5099,"food":156,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"sWI7pa4NivWy6","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"huagui1","purename":"混世魔王","jing":43,"gender":"男性","last_ip":"183.225.216.41","surname":0,"combat_exp":5000,"type":"智慧型","last_save":1544806460,"max_jing":100,"attitude":"peaceful","birthday":1544806149,"age":14,])
+autoload ({"/clone/gift/xflb:1",})
+at_time 1544806728
+ban_say_msg ""

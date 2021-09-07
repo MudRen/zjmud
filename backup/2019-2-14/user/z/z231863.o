@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545534626,]),"online_time":690,"qi":100,"per":10,"last_read_news":1545533931,"env":(["wimpy":60,]),"last_examine":(["all_quest":0,"mud_age":695,"experience":0,"potential":99,"time":1545602403,"combat_exp":0,]),"shen":0,"str":10,"title":"普通百姓","kar":30,"img":"","shen_type":0,"startroom":"/d/register/entry","con":10,"water":136,"eff_qi":100,"unit":"位","max_qi":100,"int":10,"month":0,"can_speak":1,"race":"人类","mud_age":695,"dex":10,"name":"牧青","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":136,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"SRm3bPYJq0hl.","purename":"牧青","id":"z231863","jing":100,"gender":"男性","last_ip":"223.115.224.56","surname":0,"last_save":1545534541,"max_jing":100,"attitude":"peaceful","birthday":1545533930,"age":14,])
+autoload ({})
+at_time 1545534630
+ban_say_msg ""

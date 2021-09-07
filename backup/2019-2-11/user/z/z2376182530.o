@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1549554046,"kaihuang_gift":1,]),"per":17,"last_read_news":1546321053,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","shen_record":0,"p_master":(["last_learnto":50000,]),"skill_point":3,"level":10,"shen_type":0,"max_jingli":30,"con":24,"eff_qi":67,"unit":"位","max_qi":112,"registered":1,"family":(["title":"传人","master_name":"清法比丘","generation":41,"enter_time":1546321204,"privs":0,"family_name":"少林派","master_id":"qingfa biqiu",]),"mycmds":(["fight":(["b1":"释放$br#怒气:burning",]),]),"int":14,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"虚给","jingli":30,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"EVBrVn17nkEmA","purename":"给蛇胆","jing":100,"tianfu_point":0,"surname":0,"type":"猛士型","combat_exp":49000,"max_jing":110,"neili":50,"chuwudai":1,"max_neili":50,"K_record":0,"online_time":1110,"qi":67,"born_family":"没有","class":"bonze","special_skill":(["mystery":1,]),"last_examine":(["all_quest":0,"mud_age":1196,"experience":0,"potential":10099,"time":1549576806,"combat_exp":49000,]),"die_protect":(["duration":7200,"last_dead":1546321322,]),"str":30,"score":1844,"title":"少林派第四十一代传人","kar":24,"img":"","startroom":"/d/city/wumiao","water":400,"born":"扬州人氏","mud_age":1196,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":400,"weiwang":64,"id":"z2376182530","gender":"男性","last_ip":"36.157.70.174","last_save":1549554046,"attitude":"peaceful","birthday":1546321051,"combat":(["last_die":"吃了一枚蛇胆，中毒死了","dietimes":1,]),"age":14,])
+skills (["claw":79,"force":79,"club":79,"hand":79,"strike":79,"cuff":79,"finger":79,"staff":79,"dodge":79,"sword":79,"hammer":79,"parry":79,"unarmed":79,"blade":79,"whip":79,])
+autoload ({"/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/money/coin:10","/clone/misc/baibao",})
+at_time 1549554056
+ban_say_msg ""

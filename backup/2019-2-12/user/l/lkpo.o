@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":480,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1549506222,]),"qi":112,"last_read_news":1549505732,"per":12,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["hatred":1,]),"last_examine":(["all_quest":0,"mud_age":430,"experience":0,"potential":15099,"time":1549576806,"combat_exp":55000,]),"shen":0,"character":"狡黠多变","str":13,"score":2053,"p_master":(["last_learnto":50000,]),"title":"普通百姓","skill_point":3,"kar":16,"img":"","level":10,"startroom":"/d/city/kedian","shen_type":0,"max_jingli":30,"con":25,"water":215,"eff_qi":112,"unit":"位","max_qi":112,"registered":1,"int":30,"month":0,"last_day_sign":1549505848,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":430,"jingli":30,"name":"欣欣","dex":13,"eff_jing":110,"potential":15099,"food":215,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"dcHQVeXj3e5YI","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":70,"id":"lkpo","purename":"欣欣","jing":69,"gender":"女性","tianfu_point":0,"last_ip":"101.24.33.130","surname":0,"combat_exp":55000,"type":"智慧型","last_save":1549506005,"max_jing":110,"attitude":"peaceful","neili":50,"birthday":1549505730,"max_neili":50,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/shizhe/dan_chongmai1:1",})
+at_time 1549506230
+ban_say_msg ""

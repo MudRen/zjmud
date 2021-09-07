@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1547570719,"kaihuang_gift":1,]),"online_time":630,"qi":73,"per":15,"last_read_news":1547570089,"born_family":"没有","class":"fighter","env":(["wimpy":60,]),"special_skill":(["hatred":1,]),"last_examine":(["all_quest":0,"mud_age":262,"experience":0,"potential":15099,"time":1547589607,"combat_exp":55010,]),"shen":0,"character":"心狠手辣","str":20,"score":2061,"p_master":(["last_learnto":50000,]),"title":"星宿派第三代传人","kar":22,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":20,"water":148,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"摘星子","generation":3,"enter_time":1547570614,"privs":0,"family_name":"星宿派","master_id":"zhaixing zi",]),"int":20,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1547570523,"race":"人类","mud_age":262,"dex":20,"name":"佛怒唐莲","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":148,"potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Bd96EHEG6zr/Q","weiwang":70,"purename":"佛怒唐莲","id":"hugemi","jing":87,"gender":"男性","last_ip":"223.74.130.224","surname":0,"last_save":1547570519,"type":"均衡型","combat_exp":55010,"max_jing":100,"attitude":"peaceful","birthday":1547570087,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+learned (["dodge":2,])
+autoload ({"/clone/money/coin:15","/clone/misc/xiangliao:283","/d/xingxiu/obj/menghan_yao:1","/d/xingxiu/obj/lianxindan:50","/clone/shizhe/dan_chongmai1:1","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1547570728
+ban_say_msg ""

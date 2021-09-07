@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["all_pay":0,"times":0,"kaihuang_gift":1,"last_vip_set":1549865441,"level":1,]),"last_read_news":1547821787,"per":27,"env":(["wimpy":60,]),"shen":0,"character":"心狠手辣","shen_record":0,"p_master":(["last_learnto":50000,]),"shen_type":0,"lilian":(["start":1547821835,]),"con":20,"eff_qi":100,"unit":"位","max_qi":100,"family":(["title":"传人","privs":0,"enter_time":1547821880,"generation":41,"master_name":"清法比丘","family_name":"少林派","master_id":"qingfa biqiu",]),"registered":1,"backup":([]),"mycmds":(["fight":(["b10":"拉弓$br#射箭:shot",]),]),"int":20,"month":2,"can_speak":1,"race":"人类","name":"虚小","dex":20,"jingli":0,"eff_jing":100,"potential":60099,"sec_id":"qegKd7EXTj7ZQ","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"小偷","jing":100,"surname":0,"combat_exp":131375,"type":"均衡型","max_jing":100,"neili":0,"K_record":0,"online_time":53002,"qi":100,"class":"bonze","born_family":"没有","eff_jingli":0,"special_skill":(["hatred":1,]),"last_examine":(["all_quest":0,"mud_age":53749,"experience":0,"potential":60099,"time":1549922402,"combat_exp":131375,]),"die_protect":(["duration":7200,"last_dead":1549599976,]),"str":20,"score":3380,"learned_points":194,"title":"少林派第四十一代传人","kar":17,"lunjian":(["pot":16,]),"img":"","startroom":"/d/city/wumiao","yuanbao":0,"water":294,"last_day_sign":1549865385,"born":"扬州人氏","mud_age":53749,"food":294,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":38,"id":"wu211314","gender":"男性","last_ip":"1.197.90.82","last_save":1549865382,"attitude":"peaceful","birthday":1547821786,"combat":(["MKS":12,"last_die":"被道一禅师击死了","dietimes":5,]),"age":14,"no_exert":(["msg":"你内功为辟邪剑法所破，无法凝聚真气。","until":1549804465,]),])
+skills (["claw":79,"shaolin-xinfa":16,"sword":79,"blade":79,"force":79,"club":79,"hand":79,"strike":79,"cuff":79,"finger":79,"staff":79,"dodge":79,"parry":79,"hammer":79,"whip":79,"unarmed":79,])
+learned (["force":1584,"dodge":1690,"shaolin-xinfa":230,"unarmed":1590,])
+skill_map (["force":"shaolin-xinfa",])
+autoload ({"/clone/shizhe/dan_chongmai1:10","/clone/money/coin:54223","/clone/gift/bagua:300","/clone/gift/arrow:119","/clone/gift/gong",})
+at_time 1549865442
+ban_say_msg ""

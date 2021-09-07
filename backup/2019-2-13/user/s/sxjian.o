@@ -1,0 +1,15 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["hunger":5,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["last_shake_shu":1545623282,"reset_att_times":1,"yuanbao_used":408,"times":0,"last_vip_set":1550008674,"level":1,"huolingzhi_num":1,"kaihuang_gift":1,]),"online_time":5184924,"qi":5,"per":11,"last_read_news":1544735148,"born_family":"没有","eff_jingli":0,"env":(["wimpy":60,]),"special_skill":(["self":1,]),"shen":0,"character":"光明磊落","str":30,"score":6156,"p_master":(["last_learnto":156539,]),"title":"普通百姓","kar":23,"img":"001","yuanbao":99591,"shen_type":0,"startroom":"/d/city/kedian","con":24,"water":0,"eff_qi":5,"unit":"位","max_qi":100,"backup":([]),"registered":1,"int":13,"month":3,"can_speak":1,"born":"扬州人氏","last_day_sign":1547015707,"day_item":(["huolingzhi":(["times":1,"last_time":1545016569,]),]),"race":"人类","mud_age":5262716,"jingli":0,"dex":13,"name":"孟婆汤","channels":({"chat","rumor","party","bill","sos","family","ic","rultra","sys",}),"food":0,"potential":45100,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"sDbBAl3Wnr7/M","weiwang":170,"purename":"孟婆汤","id":"sxjian","jing":100,"gender":"男性","last_ip":"223.90.213.238","surname":0,"combat_exp":2622775,"last_save":1550008368,"type":"猛士型","max_jing":100,"attitude":"peaceful","neili":1000,"cwf":"/clone/shizhe/jinsha.c","birthday":1544735146,"max_neili":1000,"cwd":"/kungfu/class/generate/","age":34,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+learned ([])
+skill_map ([])
+skill_prepare ([])
+wprepare ([])
+autoload ({"/clone/shizhe/dan_chongmai1:801","/clone/vip/canghai:1","/clone/vip/book_wuliang:1","/clone/gift/gift_shengdan:2","/clone/shizhe/dan_chongmai2:1500","/clone/shizhe/dan_chongmai3:1500","/clone/shizhe/dan_chongmai4:1000","/clone/vip/huolingzhi:1","/clone/gift/book_tianfu:850","/clone/gift/xflb:1","/clone/gift/arrow:450","/clone/gift/bagua:900","/data/item/s/sxjian-diwang:worn",})
+at_time 1544735188
+ban_say_msg ""

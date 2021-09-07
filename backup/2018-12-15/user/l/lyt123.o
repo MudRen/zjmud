@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["all_pay":0,"times":239732,"kaihuang_gift":1,"last_vip_set":1544822896,"level":1,]),"thief":2,"last_read_news":1544803315,"per":27,"env":(["sign5":"shot","wimpy":60,]),"shen":0,"character":"光明磊落","p_master":(["last_learnto":55000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":([]),"con":24,"eff_qi":125,"unit":"位","max_qi":125,"registered":1,"detach":(["丐帮":1,]),"int":14,"month":0,"can_speak":1,"race":"人类","jingli":60,"name":"快活乞儿","dex":14,"eff_jing":120,"potential":15136,"sec_id":"Pj9YEeIp0S9PQ","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"快活乞儿","jing":120,"tianfu_point":0,"surname":0,"combat_exp":52025,"type":"猛士型","max_jing":120,"neili":163,"max_neili":100,"online_time":2704,"qi":125,"class":"beggar","born_family":"没有","special_skill":(["trick":1,]),"die_protect":(["duration":7200,"last_dead":1544804028,]),"str":30,"score":1506,"learned_points":214,"title":"普通百姓","kar":21,"img":"","startroom":"/d/city/wumiao","yuanbao":0,"water":375,"last_day_sign":1544803412,"born":"扬州人氏","mud_age":2666,"food":375,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":47,"id":"lyt123","gender":"男性","last_ip":"124.160.217.144","last_save":1544822627,"attitude":"peaceful","birthday":1544803314,"combat":(["last_die":"莫名其妙地死了","dietimes":3,]),"balance":2072,"age":14,])
+skills (["claw":80,"sword":80,"literate":1,"blade":80,"stealing":0,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["force":176,"stealing":4,"literate":0,])
+autoload ({"/clone/shizhe/huxindan9:94","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1544822896
+ban_say_msg ""

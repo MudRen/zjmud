@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":513221,"all_pay":0,"last_vip_set":1545017832,"kaihuang_gift":1,"level":1,]),"per":27,"last_read_news":1545016388,"env":(["wimpy":60,"sign5":"use zhoutian dan",]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":50000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":(["start":1545016399,]),"con":25,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"康广陵","generation":4,"enter_time":1545017265,"privs":0,"family_name":"逍遥派","master_id":"kang guangling",]),"mycmds":(["fight":(["b10":"吃护$br#心丹:use huxin dan",]),]),"int":31,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"宝宝","jingli":60,"potential":15100,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"OxNyoLxt4tTk6","purename":"宝宝","jing":100,"tianfu_point":0,"surname":0,"type":"智慧型","combat_exp":55000,"max_jing":100,"neili":36876,"chuwudai":1,"max_neili":100,"online_time":1264,"qi":100,"born_family":"没有","class":"scholar","special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":1444,"experience":0,"potential":15100,"time":1545084004,"combat_exp":55000,]),"str":13,"score":2033,"learned_points":15099,"title":"逍遥派第四代传人","kar":28,"img":"","yuanbao":0,"startroom":"/d/city/kedian","water":80,"born":"扬州人氏","last_day_sign":1545016444,"mud_age":1444,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":80,"weiwang":66,"id":"gb111","gender":"男性","last_ip":"223.104.250.158","last_save":1545017614,"attitude":"peaceful","birthday":1545016386,"age":14,])
+skills (["claw":80,"xiaoyao-xinfa":77,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["xiaoyao-xinfa":1122,])
+skill_map (["force":"xiaoyao-xinfa",])
+autoload ({"/clone/vip/zhoutian:1624","/clone/money/coin:90","/clone/money/silver:29","/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong","/clone/shizhe/huxindan9:99",})
+at_time 1545018748
+ban_say_msg ""

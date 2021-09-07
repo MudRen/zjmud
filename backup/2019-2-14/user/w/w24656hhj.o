@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1548610697,]),"thief":0,"per":22,"last_read_news":1548608661,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","level":1,"shen_type":0,"max_jingli":3,"con":30,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"封不平","generation":14,"enter_time":1548610563,"privs":0,"family_name":"华山剑宗","master_id":"feng buping",]),"mycmds":(["fight":(["b2":"内力$br#疗疾:exert dispel","b1":"拉弓$br#射箭:shot",]),]),"int":24,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"慕容远侵","jingli":3,"potential":5101,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"hVslnk4L5v/OE","purename":"慕容远侵","jing":100,"surname":0,"type":"耐力型","combat_exp":4706,"max_jing":100,"neili":5,"max_neili":5,"online_time":2000,"qi":100,"born_family":"没有","class":"swordsman","special_skill":(["power":1,]),"last_examine":(["all_quest":0,"mud_age":1746,"experience":0,"potential":5101,"time":1548626411,"combat_exp":4706,]),"die_protect":(["duration":7200,"last_dead":1548610460,]),"str":13,"score":0,"title":"华山剑宗第十四代弟子","kar":17,"img":"","shimen":(["last":1548610581,]),"startroom":"/d/city/wumiao","water":64,"born":"扬州人氏","last_day_sign":1548609215,"mud_age":1746,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":64,"weiwang":0,"quest":(["family":"华山剑宗","master_name":"封不平","time":1548610581,"type":"letter","place":"嵩山一带","level":0,"limit":1548611467,"name":"廖水","id":"liao shui","info":"letter","master_id":"feng buping",]),"id":"w24656hhj","gender":"男性","last_ip":"116.10.97.58","last_save":1548610506,"attitude":"peaceful","birthday":1548608659,"combat":(["last_die":"被船夫击死了","dietimes":4,]),"age":14,])
+skills (["stealing":0,"unarmed":1,])
+learned (["stealing":2,"unarmed":1,])
+autoload ({"/clone/shizhe/dan_chongmai1:1",})
+at_time 1548611614
+ban_say_msg ""

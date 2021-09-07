@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":252,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1547390851,]),"qi":100,"last_read_news":1547389613,"per":25,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["youth":1,]),"last_examine":(["all_quest":0,"mud_age":95,"experience":0,"potential":15099,"time":1547416802,"combat_exp":55000,]),"shen":0,"character":"狡黠多变","str":13,"score":2017,"p_master":(["last_learnto":55000,]),"title":"普通百姓","kar":16,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":24,"water":230,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"last_day_sign":1547389778,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":95,"name":"聪慧","dex":13,"eff_jing":100,"potential":15099,"food":230,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"gh9z5rfqe4gy2","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":60,"id":"wow111","purename":"聪慧","jing":100,"gender":"男性","last_ip":"223.104.2.133","surname":0,"combat_exp":55000,"type":"智慧型","last_save":1547390851,"max_jing":100,"attitude":"peaceful","birthday":1547389611,"chuwudai":1,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+autoload ({"/clone/shizhe/dan_chongmai1:1","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/misc/baibao",})
+at_time 1547390854
+ban_say_msg ""

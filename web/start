@@ -1,0 +1,2 @@
+#!/bin/sh
+nohup node main 3080 3000 -h 127.0.0.1

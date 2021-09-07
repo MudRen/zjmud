@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":6536,"zjvip":(["all_pay":0,"times":2587462,"kaihuang_gift":1,"last_vip_set":1544879007,"level":1,]),"qi":111,"last_read_news":1544874998,"per":25,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["power":1,]),"shen":0,"character":"狡黠多变","str":13,"score":2073,"p_master":(["last_learnto":50000,]),"title":"普通百姓","skill_point":6,"kar":18,"img":"","level":20,"startroom":"/d/city/kedian","shen_type":0,"yuanbao":0,"max_jingli":60,"lilian":(["start":1544875075,]),"con":26,"water":218,"eff_qi":112,"unit":"位","max_qi":125,"registered":1,"int":30,"month":0,"last_day_sign":1544878862,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":6738,"name":"西施妹妹","dex":13,"jingli":60,"eff_jing":112,"potential":15099,"food":218,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"aJU6lXD3l290c","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":70,"id":"cy1324304352","purename":"西施妹妹","jing":111,"gender":"女性","last_ip":"218.26.54.62","tianfu_point":0,"surname":0,"combat_exp":60034,"type":"智慧型","last_save":1544878834,"max_jing":120,"attitude":"peaceful","neili":100,"birthday":1544874996,"max_neili":100,"age":14,])
+skills (["claw":80,"sword":80,"literate":18,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["literate":270,])
+autoload ({"/clone/shizhe/huxindan9:99","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong","/clone/money/coin:2447",})
+at_time 1544879924
+ban_say_msg ""

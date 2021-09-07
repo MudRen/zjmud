@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":36,"zjvip":(["times":0,"last_vip_set":1545481791,]),"qi":100,"last_read_news":1545211257,"per":10,"env":(["wimpy":60,]),"shen":0,"last_examine":(["all_quest":0,"mud_age":30,"experience":0,"potential":99,"time":1545516002,"combat_exp":0,]),"str":10,"title":"普通百姓","kar":21,"img":"","startroom":"/d/register/entry","shen_type":0,"con":10,"water":200,"eff_qi":100,"unit":"位","max_qi":100,"int":10,"month":0,"can_speak":1,"race":"人类","mud_age":30,"name":"阀门","dex":10,"eff_jing":100,"potential":99,"food":200,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"Wo2sS5AdkGSbQ","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"y111","purename":"阀门","jing":100,"gender":"男性","last_ip":"223.89.245.75","surname":0,"last_save":1545481791,"max_jing":100,"attitude":"peaceful","birthday":1545211256,"age":14,])
+autoload ({})
+at_time 1545481792
+ban_say_msg ""

@@ -1,0 +1,13 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["putizi_drug":983,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":884,"zjvip":(["all_pay":0,"times":0,"kaihuang_gift":1,"last_vip_set":1550159903,]),"qi":55,"last_read_news":1550159008,"per":25,"class":"royal","born_family":"段氏皇族","env":(["wimpy":60,]),"special_skill":(["youth":1,]),"shen":0,"character":"光明磊落","str":13,"score":2097,"learned_points":49,"p_master":(["last_learnto":50000,]),"title":"段氏皇族第十六代传人","kar":10,"img":"","startroom":"/d/dali/wangfugate","shen_type":0,"yuanbao":0,"con":24,"water":126,"eff_qi":113,"unit":"位","max_qi":114,"family":(["title":"传人","privs":0,"enter_time":1550159151,"generation":16,"master_name":"段正淳","family_name":"段氏皇族","master_id":"duan zhengchun",]),"registered":1,"int":30,"month":0,"out_family":1,"last_day_sign":1550159194,"born":"大理人氏","can_speak":1,"race":"人类","mud_age":792,"name":"段玉溪","dex":13,"eff_jing":100,"potential":15099,"food":126,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"lmpz6iDQfVtsc","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":69,"id":"p2550236","purename":"玉溪","jing":100,"gender":"男性","last_ip":"27.37.167.47","surname":"段","combat_exp":55000,"type":"智慧型","last_save":1550159618,"max_jing":100,"attitude":"peaceful","neili":60,"birthday":1550159007,"max_neili":60,"chuwudai":1,"age":14,])
+skills (["force":80,"claw":80,"club":80,"duanshi-xinfa":12,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+learned (["duanshi-xinfa":96,])
+skill_map (["force":"duanshi-xinfa",])
+autoload ({"/clone/money/cash:15","/clone/misc/baibao","/clone/shizhe/dan_chongmai1:1","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1550160818
+ban_say_msg ""

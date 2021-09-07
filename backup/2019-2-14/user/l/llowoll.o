@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":258869,"last_vip_set":1544929431,"kaihuang_gift":1,"level":1,]),"online_time":792,"qi":90,"per":22,"last_read_news":1544928632,"born_family":"没有","class":"fighter","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"last_examine":(["all_quest":0,"mud_age":712,"experience":0,"potential":15104,"time":1544997603,"combat_exp":55039,]),"shen":0,"character":"心狠手辣","str":13,"score":2050,"learned_points":65,"p_master":(["last_learnto":55015,]),"title":"星宿派第三代传人","kar":14,"img":"001","shen_type":0,"startroom":"/d/city/kedian","lilian":(["start":1544929308,]),"con":24,"water":133,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"摘星子","generation":3,"enter_time":1544928961,"privs":0,"family_name":"星宿派","master_id":"zhaixing zi",]),"mycmds":(["fight":(["b1":"内力$br#回气:exert recover","b7":"内力$br#回精:exert regenerate",]),]),"int":30,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1544928730,"race":"人类","mud_age":712,"dex":13,"name":"空白","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":133,"potential":15104,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"bAIOWUCgUTiOQ","weiwang":63,"purename":"空白","id":"llowoll","jing":100,"gender":"男性","last_ip":"171.209.131.234","surname":0,"last_save":1544929287,"combat_exp":55039,"max_jing":100,"attitude":"peaceful","neili":1,"birthday":1544928631,"balance":32,"max_neili":1,"age":14,])
+skills (["claw":80,"sword":80,"literate":1,"blade":80,"force":80,"club":80,"guixi-gong":10,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":37,"guixi-gong":95,"literate":0,])
+skill_map (["force":"guixi-gong",])
+autoload ({"/clone/vip/zhoutian:1","/clone/money/coin:3","/clone/shizhe/huxindan9:99","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1544930350
+ban_say_msg ""

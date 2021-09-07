@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1545366416,]),"last_read_news":1545269837,"per":30,"env":(["wimpy":60,]),"shen":3,"character":"狡黠多变","p_master":(["last_learnto":50000,]),"gongxian":4,"shen_type":0,"con":24,"eff_qi":101,"unit":"位","max_qi":101,"family":(["title":"传人","privs":0,"enter_time":1545270171,"generation":4,"master_name":"梅剑","family_name":"灵鹫宫","master_id":"mei jian",]),"registered":1,"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":30,"month":0,"can_speak":1,"out_family":1,"race":"人类","name":"皮神","dex":13,"eff_jing":100,"potential":15106,"sec_id":"oeLq3.EzevNMQ","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"purename":"皮神","jing":100,"surname":0,"combat_exp":55541,"max_jing":100,"neili":14,"experience":0,"max_neili":7,"chuwudai":1,"online_time":1476,"qi":101,"class":"dancer","born_family":"没有","quest_count":4,"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":1406,"experience":0,"potential":15106,"time":1545429604,"combat_exp":55541,]),"str":13,"score":2086,"learned_points":2048,"title":"灵鹫宫第四代传人","kar":25,"img":"","shimen":(["today":4,"last":1545287928,]),"startroom":"/d/city/kedian","water":225,"last_day_sign":1545269971,"born":"扬州人氏","mud_age":1406,"food":225,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":100,"id":"q2003","gender":"女性","last_ip":"61.158.149.132","last_save":1545366362,"attitude":"peaceful","birthday":1545269835,"combat":(["MKS":4,]),"age":14,])
+skills (["claw":80,"lingjiu-xinfa":11,"sword":80,"blade":80,"force":80,"chuancai-jiyi":31,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"cooking":31,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["force":17,"chuancai-jiyi":143,"lingjiu-xinfa":62,"dodge":22,"cooking":46,"unarmed":29,])
+skill_map (["force":"lingjiu-xinfa","cooking":"chuancai-jiyi",])
+autoload ({"/clone/money/coin:46","/clone/misc/baibao","/clone/gift/bagua:296","/clone/gift/arrow:146","/clone/gift/gong","/clone/vip/zhoutian:19","/clone/money/silver:260",})
+at_time 1545366424
+ban_say_msg ""

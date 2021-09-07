@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+conditions (["ill_dongshang":3,])
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546144838,]),"online_time":736,"qi":69,"per":19,"last_read_news":1546076157,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":834,"experience":0,"potential":10099,"time":1546207204,"combat_exp":10000,]),"shen":0,"character":"狡黠多变","str":20,"title":"普通百姓","kar":29,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":20,"water":300,"eff_qi":69,"unit":"位","max_qi":100,"registered":1,"int":20,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1546144839,"race":"人类","mud_age":834,"dex":20,"name":"勐海","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":300,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"ROe.KFBXMzg7o","purename":"勐海","id":"aswq468","jing":100,"gender":"男性","last_ip":"122.96.40.245","surname":0,"last_save":1546144827,"type":"均衡型","combat_exp":10000,"max_jing":100,"attitude":"peaceful","birthday":1546076156,"age":14,])
+autoload ({})
+at_time 1546144844
+ban_say_msg ""

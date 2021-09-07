@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546060407,]),"online_time":198,"qi":100,"per":22,"last_read_news":1546060213,"born_family":"关外胡家","env":(["wimpy":60,]),"special_skill":(["youth":1,]),"last_examine":(["all_quest":0,"mud_age":130,"experience":0,"potential":5099,"time":1546120803,"combat_exp":5000,]),"shen":0,"character":"光明磊落","str":30,"learned_points":7,"title":"关外胡家第八代传人","kar":10,"img":"","shen_type":0,"startroom":"/d/guanwai/xiaowu","con":24,"water":186,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"family":(["title":"传人","master_name":"胡斐","generation":8,"enter_time":1546060287,"privs":0,"family_name":"关外胡家","master_id":"hu fei",]),"int":13,"month":0,"can_speak":1,"born":"关外人氏","last_day_sign":1546060354,"race":"人类","mud_age":130,"dex":13,"name":"胡轩辕鑫","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":186,"potential":5099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"tVJy2MZ67aQRo","purename":"轩辕鑫","id":"q2446117708","jing":0,"gender":"男性","last_ip":"117.136.86.41","surname":"胡","last_save":1546060213,"type":"猛士型","combat_exp":5000,"max_jing":100,"attitude":"peaceful","birthday":1546060212,"age":14,])
+skills (["force":4,])
+learned (["force":6,])
+autoload ({"/clone/money/silver:2",})
+at_time 1546060414
+ban_say_msg ""

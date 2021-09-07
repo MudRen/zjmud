@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1549037463,"kaihuang_gift":1,]),"per":26,"last_read_news":1548865432,"env":(["wimpy":60,]),"shen":0,"character":"光明磊落","shen_record":0,"p_master":(["last_learnto":50000,]),"skill_point":3,"level":10,"shen_type":0,"max_jingli":30,"con":24,"eff_qi":112,"unit":"位","max_qi":112,"registered":1,"family":(["title":"传人","master_name":"清法比丘","generation":41,"enter_time":1548865578,"privs":0,"family_name":"少林派","master_id":"qingfa biqiu",]),"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":14,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"空尴","jingli":30,"potential":10099,"eff_jing":110,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"GT46mRb0FQRsk","purename":"尴尬","jing":110,"tianfu_point":0,"surname":0,"type":"猛士型","combat_exp":46119,"max_jing":110,"neili":50,"chuwudai":1,"max_neili":50,"K_record":0,"online_time":1392,"qi":112,"born_family":"没有","class":"bonze","special_skill":(["hatred":1,]),"last_examine":(["all_quest":0,"mud_age":1519,"experience":0,"potential":10099,"time":1549058411,"combat_exp":46119,]),"die_protect":(["duration":7200,"last_dead":1548909211,]),"str":30,"score":1356,"title":"少林派第四十一代传人","kar":15,"img":"","startroom":"/d/city/wumiao","water":396,"born":"扬州人氏","mud_age":1519,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":396,"weiwang":38,"id":"p2550236","gender":"男性","last_ip":"117.136.30.200","last_save":1549037423,"attitude":"peaceful","birthday":1548865430,"combat":(["MKS":13,"last_die":"吃了一枚蛇胆，中毒死了","dietimes":4,]),"age":14,])
+skills (["claw":78,"force":78,"club":78,"hand":78,"strike":78,"cuff":78,"finger":78,"staff":78,"dodge":78,"sword":78,"hammer":78,"parry":78,"unarmed":78,"blade":78,"whip":78,])
+autoload ({"/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:137","/clone/gift/gong",})
+at_time 1549037468
+ban_say_msg ""

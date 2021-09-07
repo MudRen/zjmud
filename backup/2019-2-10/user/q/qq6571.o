@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"all_pay":0,"last_vip_set":1545799009,"kaihuang_gift":1,"level":1,]),"online_time":35734,"qi":177,"per":16,"last_read_news":1544933016,"born_family":"Ã»ÓĞ","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":36498,"experience":0,"potential":20099,"time":1545861602,"combat_exp":60000,]),"shen":0,"nickname":"[1;31mÄ§ÉñÍõ[2;37;0m","character":"¹âÃ÷ÀÚÂä","str":30,"score":2039,"p_master":(["last_learnto":50000,]),"learned_points":661,"title":"ÉÙÁÖÅÉµÚËÄÊ®Ò»´ú´«ÈË","kar":25,"img":"","yuanbao":0,"shen_type":0,"startroom":"/d/city/kedian","lilian":(["start":1544933265,]),"con":24,"water":399,"eff_qi":178,"unit":"Î»","max_qi":191,"registered":1,"family":(["title":"´«ÈË","master_name":"Çå·¨±ÈÇğ","generation":41,"enter_time":1544933129,"privs":0,"family_name":"ÉÙÁÖÅÉ","master_id":"qingfa biqiu",]),"mycmds":(["fight":(["b4":"³Ô»¤$br#ĞÄµ¤:use huxin dan",]),]),"int":13,"month":1,"can_speak":1,"born":"ÑïÖİÈËÊÏ","last_day_sign":1545798995,"race":"ÈËÀà","mud_age":36498,"dex":13,"name":"¸ÇÌáÑÇ","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":399,"potential":20099,"eff_jing":100,"limbs":({"Í·²¿","¾±²¿","ĞØ¿Ú","ºóĞÄ","×ó¼ç","ÓÒ¼ç","×ó±Û","ÓÒ±Û","×óÊÖ","ÓÒÊÖ","Ñü¼ä","Ğ¡¸¹","×óÍÈ","ÓÒÍÈ","×ó½Å","ÓÒ½Å",}),"sec_id":"dcMcCZgRss.lU","weiwang":61,"purename":"¸ÇÌáÑÇ","id":"qq6571","jing":100,"gender":"ÄĞĞÔ","last_ip":"223.104.250.62","surname":0,"last_save":1545798986,"type":"ÃÍÊ¿ĞÍ","combat_exp":60000,"max_jing":100,"attitude":"peaceful","neili":447,"birthday":1544933015,"chuwudai":1,"max_neili":364,"age":14,])
+skills (["claw":80,"shaolin-xinfa":43,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":1,"shaolin-xinfa":1762,])
+skill_map (["force":"shaolin-xinfa",])
+autoload ({"/clone/misc/baibao","/clone/shizhe/huxindan9:99","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1545799926
+ban_say_msg ""

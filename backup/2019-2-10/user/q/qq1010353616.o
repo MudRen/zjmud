@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1546184158,]),"online_time":190,"qi":100,"per":17,"last_read_news":1546183965,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":53,"experience":0,"potential":99,"time":1546207204,"combat_exp":0,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":15,"img":"","shen_type":0,"startroom":"/d/beijing/kedian","con":24,"water":189,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"can_speak":1,"born":"燕赵人氏","race":"人类","mud_age":53,"dex":13,"name":"剑灵","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":189,"potential":99,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"FA8Enr.DsLjlM","purename":"剑灵","id":"qq1010353616","jing":100,"gender":"女性","last_ip":"39.158.11.199","surname":0,"last_save":1546183965,"type":"智慧型","max_jing":100,"attitude":"peaceful","birthday":1546183963,"age":14,])
+autoload ({})
+at_time 1546184158
+ban_say_msg ""

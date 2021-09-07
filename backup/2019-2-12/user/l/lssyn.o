@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":13170,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1545352914,]),"qi":146,"last_read_news":1545329936,"per":21,"class":"beggar","born_family":"没有","env":(["sign5":"get dan;get wan;get mengzi book","wimpy":60,]),"special_skill":(["self":1,]),"shen":0,"last_examine":(["all_quest":0,"mud_age":13394,"experience":0,"potential":10105,"time":1545429604,"combat_exp":54474,]),"character":"心狠手辣","str":13,"score":2390,"learned_points":10099,"p_master":(["last_learnto":50000,]),"title":"丐帮第二十代传人","skill_point":6,"kar":10,"img":"","level":20,"startroom":"/d/city/kedian","shen_type":0,"max_jingli":60,"con":31,"water":117,"eff_qi":325,"unit":"位","max_qi":325,"family":(["title":"传人","privs":0,"enter_time":1545330110,"generation":20,"master_name":"左全","family_name":"丐帮","master_id":"zuo quan",]),"registered":1,"int":25,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":13394,"jingli":60,"name":"包租婆","dex":13,"eff_jing":120,"potential":10105,"food":117,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"ocGcev6LF9KOI","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":53,"id":"lssyn","purename":"包租婆","jing":105,"gender":"女性","tianfu_point":0,"last_ip":"49.92.204.58","surname":0,"combat_exp":54474,"last_save":1545352648,"max_jing":120,"attitude":"peaceful","neili":100,"birthday":1545329935,"max_neili":100,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"jiaohua-neigong":65,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["force":216,"jiaohua-neigong":3429,"dodge":202,"unarmed":188,])
+skill_map (["force":"jiaohua-neigong",])
+autoload ({"/clone/money/coin:6646","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1545352924
+ban_say_msg ""

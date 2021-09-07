@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":28,"zjvip":(["times":0,"last_vip_set":1544825858,]),"qi":100,"last_read_news":1544825836,"per":10,"env":(["wimpy":60,]),"shen":0,"str":10,"title":"普通百姓","kar":17,"img":"","startroom":"/d/register/entry","shen_type":0,"con":10,"water":198,"eff_qi":100,"unit":"位","max_qi":100,"int":10,"month":0,"can_speak":1,"race":"人类","mud_age":22,"name":"畏乌鸦","dex":10,"eff_jing":100,"potential":99,"food":198,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"oe.trkTZ67Dbs","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"baifa2","purename":"畏乌鸦","jing":100,"gender":"男性","last_ip":"111.127.83.17","surname":0,"last_save":1544825836,"max_jing":100,"attitude":"peaceful","birthday":1544825834,"age":14,])
+autoload ({})
+at_time 1544825866
+ban_say_msg ""

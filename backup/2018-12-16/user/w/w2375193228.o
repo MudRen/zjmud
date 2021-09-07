@@ -1,0 +1,9 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":738,"zjvip":(["all_pay":0,"times":0,"last_vip_set":1544809789,]),"qi":87,"last_read_news":1544797620,"per":19,"class":"fighter","born_family":"没有","env":(["wimpy":60,]),"special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":685,"experience":0,"potential":100,"time":1544824803,"combat_exp":0,]),"shen":0,"character":"狡黠多变","str":13,"title":"峨嵋派第五代传人","kar":17,"img":"","startroom":"/d/hangzhou/kedian","shen_type":0,"yuanbao":0,"con":20,"water":230,"eff_qi":87,"unit":"位","max_qi":100,"family":(["title":"传人","privs":0,"enter_time":1544797867,"generation":5,"master_name":"李明霞","family_name":"峨嵋派","master_id":"li mingxia",]),"registered":1,"int":27,"month":0,"born":"杭州人氏","can_speak":1,"race":"人类","mud_age":685,"name":"月舞","dex":20,"eff_jing":100,"potential":100,"food":230,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"dOkO5ZGbwrv7s","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"w2375193228","purename":"月舞","jing":100,"gender":"女性","last_ip":"36.60.128.251","surname":0,"last_save":1544809789,"max_jing":100,"attitude":"peaceful","birthday":1544797618,"age":14,])
+autoload ({})
+at_time 1544810706
+ban_say_msg ""

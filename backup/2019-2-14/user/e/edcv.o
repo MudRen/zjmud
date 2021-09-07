@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":132,"zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1550042706,]),"qi":100,"last_read_news":1550042583,"per":18,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"shen":0,"character":"心狠手辣","str":13,"score":2013,"p_master":(["last_learnto":50000,]),"title":"普通百姓","kar":14,"img":"","startroom":"/d/city/kedian","shen_type":0,"con":30,"water":190,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":24,"month":0,"born":"扬州人氏","can_speak":1,"race":"人类","mud_age":103,"name":"是无奈","dex":13,"eff_jing":100,"potential":10099,"food":190,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"rpbGEv7GzDqLA","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":64,"id":"edcv","purename":"是无奈","jing":100,"gender":"男性","last_ip":"36.157.68.28","surname":0,"combat_exp":50000,"type":"耐力型","last_save":1550042583,"max_jing":100,"attitude":"peaceful","birthday":1550042582,"age":14,])
+skills (["force":80,"claw":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"sword":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"blade":80,"unarmed":80,])
+autoload ({"/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1550042718
+ban_say_msg ""

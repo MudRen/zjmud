@@ -1,0 +1,8 @@
+/adm/daemons/bossd.c line 83: syntax error before );
+/adm/daemons/bossd.c line 86: Illegal LHS before 
+/adm/daemons/bossd.c line 86: syntax error before 
+/adm/daemons/bossd.c line 87: Illegal LHS before 
+/adm/daemons/bossd.c line 87: syntax error before 
+/adm/daemons/bossd.c line 90: Illegal LHS before 
+/kungfu/class/generate/girl.c line 579: Wrong number of arguments to query_per
+    Expected: 1  Got: 0 before ;

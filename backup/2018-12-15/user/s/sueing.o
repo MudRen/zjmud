@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":257075,"all_pay":0,"last_vip_set":1544799799,"kaihuang_gift":1,"level":1,]),"per":23,"last_read_news":1544797536,"env":(["wimpy":60,]),"shen":0,"character":"狡黠多变","p_master":(["last_learnto":55000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"lilian":(["start":1544799747,]),"con":24,"eff_qi":111,"unit":"位","max_qi":125,"registered":1,"family":(["title":"传人","master_name":"曲灵风","generation":3,"enter_time":1544797778,"privs":0,"family_name":"桃花岛","master_id":"qu lingfeng",]),"int":30,"month":0,"can_speak":1,"race":"人类","dex":15,"name":"心初似雪","jingli":60,"potential":15099,"eff_jing":110,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"Qxy/ohrYU5rWQ","purename":"心初似雪","jing":109,"tianfu_point":0,"surname":0,"type":"智慧型","combat_exp":55000,"max_jing":120,"neili":100,"max_neili":100,"online_time":1850,"qi":110,"born_family":"没有","class":"scholar","special_skill":(["hatred":1,]),"str":13,"score":2042,"learned_points":729,"title":"桃花岛第三代传人","kar":25,"img":"","yuanbao":0,"startroom":"/d/shaolin/kedian1","water":219,"born":"中原人氏","last_day_sign":1544797578,"mud_age":1850,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":219,"weiwang":61,"id":"sueing","gender":"男性","last_ip":"117.136.32.58","last_save":1544799685,"attitude":"peaceful","birthday":1544797534,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"luoying-xinfa":28,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["luoying-xinfa":223,])
+skill_map (["force":"luoying-xinfa",])
+autoload ({"/clone/shizhe/huxindan9:99","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300",})
+at_time 1544799806
+ban_say_msg ""

@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1548385768,]),"online_time":184,"qi":74,"per":18,"last_read_news":1548385587,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":138,"experience":0,"potential":102,"time":1548453611,"combat_exp":50,]),"shen":0,"character":"狡黠多变","str":13,"score":2,"title":"普通百姓","kar":20,"img":"","shen_type":0,"startroom":"/d/beijing/kedian","con":24,"water":185,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":30,"month":0,"can_speak":1,"born":"燕赵人氏","race":"人类","mud_age":138,"dex":13,"name":"斗罗唐三","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":185,"potential":102,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"onRUyRSMmaSpc","purename":"斗罗唐三","id":"zx2040831195","jing":97,"gender":"男性","last_ip":"175.4.211.135","surname":0,"last_save":1548385587,"type":"智慧型","combat_exp":50,"max_jing":100,"attitude":"peaceful","birthday":1548385586,"age":14,])
+skills (["force":1,"literate":1,"unarmed":1,])
+learned (["force":0,"literate":0,"unarmed":0,])
+autoload ({"/clone/money/coin:63",})
+at_time 1548386688
+ban_say_msg ""

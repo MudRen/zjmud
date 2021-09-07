@@ -1,0 +1,11 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545798832,"kaihuang_gift":1,]),"online_time":678,"qi":86,"thief":1,"per":10,"last_read_news":1545695949,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":564,"experience":0,"potential":10099,"time":1545861602,"combat_exp":50002,]),"shen":-219,"character":"狡黠多变","str":30,"score":2021,"p_master":(["last_learnto":50000,]),"title":"普通百姓","kar":25,"img":"","shen_type":0,"startroom":"/d/city/kedian","con":24,"water":400,"eff_qi":87,"unit":"位","max_qi":100,"registered":1,"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":13,"month":0,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":564,"dex":13,"name":"呃呃嗯","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":400,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"aXcjp3NQgRasw","weiwang":60,"purename":"呃呃嗯","id":"kkio","jing":100,"gender":"男性","last_ip":"171.10.131.71","surname":0,"last_save":1545798832,"type":"猛士型","combat_exp":50002,"max_jing":100,"attitude":"peaceful","birthday":1545695947,"combat":(["MKS":2,]),"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"stealing":0,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["stealing":2,"parry":1,])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:146","/clone/gift/bagua:300",})
+at_time 1545799746
+ban_say_msg ""

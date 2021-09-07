@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":2628,"zjvip":(["times":257320,"last_vip_set":1544822670,"kaihuang_gift":1,"level":1,]),"qi":102,"last_read_news":1544819311,"per":30,"born_family":"关外胡家","env":(["wimpy":60,]),"special_skill":(["mystery":1,]),"shen":0,"character":"光明磊落","str":30,"score":2093,"p_master":(["last_learnto":50033,]),"learned_points":73,"title":"关外胡家第八代传人","kar":24,"img":"","startroom":"/d/guanwai/xiaowu","shen_type":0,"lilian":(["start":1544821539,]),"con":24,"water":344,"eff_qi":102,"unit":"位","max_qi":102,"registered":1,"family":(["title":"传人","master_name":"胡斐","generation":8,"enter_time":1544820934,"privs":0,"family_name":"关外胡家","master_id":"hu fei",]),"mycmds":(["fight":(["b10":"吃护$br#心丹:use huxin dan","b3":"拉弓$br#射箭:shot","b1":"冷月$br#战气:exert force.powerup",]),]),"int":13,"month":0,"can_speak":1,"born":"关外人氏","race":"人类","mud_age":2286,"name":"胡铁花","dex":13,"jingli":0,"eff_jing":100,"potential":10099,"food":344,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"sec_id":"CEvkmTqUqkqvY","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"weiwang":53,"id":"dangxin","purename":"铁花","jing":100,"gender":"男性","last_ip":"119.4.252.175","surname":"胡","last_save":1544822388,"type":"猛士型","combat_exp":50158,"max_jing":100,"attitude":"peaceful","neili":35,"birthday":1544819309,"chuwudai":1,"balance":48,"max_neili":35,"age":14,])
+skills (["claw":80,"sword":80,"lengyue-shengong":14,"blade":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":4,"dodge":6,"lengyue-shengong":12,"unarmed":2,])
+skill_map (["force":"lengyue-shengong",])
+autoload ({"/clone/gift/gong","/clone/gift/arrow:141","/clone/gift/bagua:300","/clone/misc/baibao","/clone/money/coin:26","/clone/shizhe/huxindan9:97",})
+at_time 1544822674
+ban_say_msg ""

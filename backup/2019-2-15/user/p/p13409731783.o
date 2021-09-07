@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1547794854,"kaihuang_gift":1,]),"online_time":650,"qi":100,"per":24,"last_read_news":1547794200,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["ghost":1,]),"last_examine":(["all_quest":0,"mud_age":514,"experience":0,"potential":15099,"time":1547848803,"combat_exp":55000,]),"shen":0,"character":"心狠手辣","str":30,"score":2073,"p_master":(["last_learnto":55000,]),"title":"普通百姓","skill_point":4,"kar":22,"img":"","level":14,"shen_type":0,"startroom":"/d/city/kedian","max_jingli":42,"con":24,"water":157,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"int":13,"month":0,"can_speak":1,"born":"扬州人氏","last_day_sign":1547794498,"race":"人类","mud_age":514,"dex":13,"name":"唐绝","jingli":42,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":157,"potential":15099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"lcd3qFMKyM7Es","weiwang":55,"purename":"唐绝","id":"p13409731783","jing":100,"gender":"男性","last_ip":"119.102.40.62","tianfu_point":1,"surname":0,"last_save":1547794811,"type":"猛士型","combat_exp":55000,"max_jing":100,"attitude":"peaceful","neili":70,"birthday":1547794199,"max_neili":70,"chuwudai":1,"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong","/clone/shizhe/dan_chongmai1:1",})
+at_time 1547794860
+ban_say_msg ""

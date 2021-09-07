@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":495868,"all_pay":0,"last_vip_set":1544883463,"kaihuang_gift":1,"level":1,"master":"q456789",]),"per":22,"last_read_news":1544860995,"env":(["wimpy":60,]),"last_sleep":1544868964,"shen":0,"character":"狡黠多变","p_master":(["qinmi":1,"name":"唐三","last_learnto":50000,"id":"q456789",]),"skill_point":3,"level":10,"shen_type":0,"max_jingli":30,"lilian":(["start":1544878610,]),"con":24,"eff_qi":124,"unit":"位","max_qi":124,"registered":1,"family":(["title":"传人","master_name":"尹志平","generation":4,"enter_time":1544861088,"privs":0,"family_name":"全真教","master_id":"yin zhiping",]),"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":30,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"杨培","jingli":30,"potential":15213,"eff_jing":110,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"cMXeIJQVs3B92","purename":"杨培","jing":110,"tianfu_point":1,"surname":0,"type":"智慧型","combat_exp":55126,"max_jing":110,"neili":97,"max_neili":97,"online_time":6918,"qi":124,"disable_type":" <睡梦中>","born_family":"没有","class":"taoist","special_skill":(["trick":1,]),"str":13,"score":2013,"learned_points":9673,"title":"全真教第四代传人","kar":25,"img":"","yuanbao":0,"startroom":"/d/city/kedian","water":209,"baishi_times":1,"born":"扬州人氏","last_day_sign":1544879009,"mud_age":7205,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":209,"weiwang":74,"id":"ypwan","gender":"女性","last_ip":"1.198.165.93","last_save":1544883245,"attitude":"peaceful","birthday":1544860993,"combat":([]),"age":14,])
+skills (["claw":80,"quanzhen-xinfa":49,"sword":80,"literate":50,"blade":80,"force":80,"club":80,"chuancai-jiyi":32,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"cooking":30,"unarmed":80,"whip":80,])
+learned (["force":2,"chuancai-jiyi":527,"cooking":156,"literate":1030,"quanzhen-xinfa":886,"unarmed":2,])
+skill_map (["force":"quanzhen-xinfa","cooking":"chuancai-jiyi",])
+autoload ({"/clone/shizhe/huxindan9:98","/clone/gift/gong","/clone/gift/arrow:150","/clone/gift/bagua:300","/clone/money/cash:4","/clone/money/gold:9","/clone/money/silver:70","/clone/vip/zhoutian:77","/clone/money/coin:48",})
+at_time 1544884380
+ban_say_msg ""

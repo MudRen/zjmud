@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({"dugu dou",})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"kaihuang_gift":1,"last_vip_set":1548157730,"level":1,]),"per":29,"last_read_news":1544886923,"env":(["combatd":5,"wimpy":60,]),"last_sleep":1544887658,"shen":-2,"character":"心狠手辣","p_master":(["last_learnto":50000,]),"gongxian":3,"shen_type":0,"lilian":(["start":1544886990,]),"con":20,"eff_qi":103,"unit":"位","max_qi":110,"registered":1,"family":(["title":"传人","privs":0,"enter_time":1544887340,"generation":3,"master_name":"摘星子","family_name":"星宿派","master_id":"zhaixing zi",]),"mycmds":(["fight":(["b10":"拉弓$br#射箭:shot",]),]),"int":20,"month":0,"can_speak":1,"out_family":1,"race":"人类","jingli":0,"dex":20,"name":"散白","potential":10103,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":".cKQJIpmMv4DU","purename":"散白","jing":100,"surname":0,"type":"均衡型","combat_exp":50062,"max_jing":100,"neili":82,"experience":0,"chuwudai":1,"max_neili":41,"online_time":3690,"qi":103,"disable_type":" <睡梦中>","quest_count":3,"class":"fighter","born_family":"没有","special_skill":(["lucky":1,]),"last_examine":(["all_quest":0,"mud_age":3609,"experience":0,"potential":10103,"time":1548194404,"combat_exp":50062,]),"str":20,"score":2045,"learned_points":49,"title":"星宿派第三代传人","kar":19,"img":"","shimen":(["today":0,"last":1544889409,]),"startroom":"/d/city/kedian","water":294,"born":"扬州人氏","mud_age":3609,"food":294,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"weiwang":37,"id":"zxc666","gender":"男性","last_ip":"223.104.22.126","last_save":1548157663,"attitude":"peaceful","birthday":1544886921,"combat":(["MKS":4,]),"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"guixi-gong":14,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"parry":80,"hammer":80,"whip":80,"unarmed":80,])
+learned (["guixi-gong":210,])
+skill_map (["force":"guixi-gong",])
+autoload ({"/clone/money/silver:33","/clone/misc/baibao","/d/xingxiu/obj/lianxindan:50","/clone/shizhe/huxindan9:98","/clone/gift/bagua:295","/clone/gift/arrow:145","/clone/gift/gong",})
+at_time 1548157730
+ban_say_msg ""

@@ -1,0 +1,10 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1547011060,"kaihuang_gift":1,]),"online_time":260,"qi":1,"per":20,"last_read_news":1547010797,"born_family":"没有","env":(["wimpy":60,]),"special_skill":(["agile":1,]),"last_examine":(["all_quest":0,"mud_age":120,"experience":0,"potential":10099,"time":1547071202,"combat_exp":49000,]),"shen":0,"die_protect":(["duration":7200,"last_dead":1547011060,]),"character":"光明磊落","str":13,"score":1856,"p_master":(["last_learnto":50000,]),"title":"普通百姓","kar":25,"img":"","shen_type":0,"startroom":"/d/city/wumiao","con":24,"water":178,"eff_qi":100,"unit":"位","max_qi":100,"registered":1,"mycmds":(["fight":(["b1":"拉弓$br#射箭:shot",]),]),"int":30,"month":0,"can_speak":1,"born":"扬州人氏","race":"人类","mud_age":120,"dex":13,"name":"惨叫硬","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":178,"potential":10099,"eff_jing":100,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"XHlvvy.Xs3Xx6","weiwang":57,"purename":"惨叫硬","id":"zy541838077","jing":1,"gender":"男性","last_ip":"60.184.168.60","surname":0,"last_save":1547010797,"type":"智慧型","combat_exp":49000,"max_jing":100,"attitude":"peaceful","birthday":1547010795,"combat":(["MKS":1,"last_die":"被劳德诺刺死了","dietimes":1,]),"age":14,])
+skills (["claw":80,"force":80,"club":80,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"sword":80,"hammer":80,"parry":80,"unarmed":80,"blade":80,"whip":80,])
+autoload ({"/clone/money/silver:2","/clone/gift/bagua:300","/clone/gift/arrow:148","/clone/gift/gong",})
+at_time 1547011978
+ban_say_msg ""

@@ -1,0 +1,12 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1545832589,"kaihuang_gift":1,]),"per":12,"last_read_news":1545227164,"env":(["wimpy":60,]),"shen":0,"character":"心狠手辣","p_master":(["last_learnto":55000,]),"skill_point":6,"level":20,"shen_type":0,"max_jingli":60,"con":30,"eff_qi":109,"unit":"位","max_qi":134,"registered":1,"family":(["title":"传人","master_name":"摘星子","generation":3,"enter_time":1545227300,"privs":0,"family_name":"星宿派","master_id":"zhaixing zi",]),"int":24,"month":0,"can_speak":1,"race":"人类","dex":13,"name":"三千","jingli":60,"potential":20099,"eff_jing":109,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"OQgfMlUogMFmA","purename":"三千","jing":108,"tianfu_point":0,"surname":0,"type":"耐力型","combat_exp":60000,"max_jing":120,"neili":139,"chuwudai":1,"max_neili":139,"online_time":2356,"qi":108,"born_family":"没有","class":"fighter","special_skill":(["self":1,]),"last_examine":(["all_quest":0,"mud_age":2346,"experience":0,"potential":20099,"time":1545861602,"combat_exp":60000,]),"str":15,"score":2086,"learned_points":85,"title":"星宿派第三代传人","kar":10,"img":"","startroom":"/d/city/kedian","water":242,"born":"扬州人氏","last_day_sign":1545832538,"mud_age":2346,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":242,"weiwang":68,"id":"asssaa25544","gender":"男性","last_ip":"223.104.186.2","last_save":1545832497,"attitude":"peaceful","birthday":1545227163,"age":14,])
+skills (["claw":80,"sword":80,"blade":80,"force":80,"club":80,"guixi-gong":19,"hand":80,"strike":80,"cuff":80,"finger":80,"staff":80,"dodge":80,"hammer":80,"parry":80,"unarmed":80,"whip":80,])
+learned (["force":1,"guixi-gong":46,])
+skill_map (["force":"guixi-gong",])
+autoload ({"/clone/misc/baibao","/clone/gift/bagua:300","/clone/gift/arrow:150","/clone/gift/gong",})
+at_time 1545833510
+ban_say_msg ""
